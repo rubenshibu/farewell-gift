@@ -13,7 +13,7 @@ jQuery(document).ready(function ($) {
 		// Show the div after 5s
 		$("#message").delay(5000).fadeIn(1000);
 		//Show and Hide message
-		$("#ctr").show().delay(5000).fadeOut();
+		$("#ctr").show().delay(500).fadeOut();
 	});
 
 
