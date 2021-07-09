@@ -21,7 +21,7 @@ $(document).ready(function () {
     $(".images")
       .append(`<div class="col-6 col-md-6 col-lg-3" data-aos="fade-up">
                 <a
-                  href="images/img_1.jpg"
+                  href="${img.imgUrl}"
                   class="d-block photo-item"
                   data-fancybox="gallery"
                 >
