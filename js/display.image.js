@@ -422,14 +422,18 @@ $(document).ready(function () {
     },
     {
       imgId: "1G3CB9anUNKTv1eiA7YGnkD1xa0d-0zTl",
-      delay: 300,
+      delay: 200,
     },
     {
       imgId: "1Sod2X3Zlj7lOx6IafhWdyILjg7tTKJLC",
-      delay: 400,
+      delay: 300,
     },
     {
       imgId: "1_J23xE1CGp5inuEUYIBNovEdbqu-xBDx",
+      delay: 400,
+    },
+    {
+      imgId: "1-P_tYrqODCDyBrUKtTRCrD6l1JKT0FRW",
       delay: 100,
     },
     {
@@ -605,8 +609,324 @@ $(document).ready(function () {
       delay: 400,
     },
     {
-      imgId: "1-P_tYrqODCDyBrUKtTRCrD6l1JKT0FRW",
+      imgId: "1E47xTwud4xmPTWxJGXiaMzXfcyYhiFn6",
       delay: 100,
+    },
+    {
+      imgId: "1E-qOyzRj2MDyFFtQ0seUHCOmv-6jiNze",
+      delay: 200,
+    },
+    {
+      imgId: "1DuuHSR9hphndsEJQ_vZOs164pqAzoZXD",
+      delay: 300,
+    },
+    {
+      imgId: "1DuQ-HS6AxSob8Nd8nxPlfpGYhVjm8GhH",
+      delay: 400,
+    },
+    {
+      imgId: "1ESlQmz6VBzzYQvBujlTVdefal3GTwC19",
+      delay: 100,
+    },
+    {
+      imgId: "1ESlQmz6VBzzYQvBujlTVdefal3GTwC19",
+      delay: 200,
+    },
+    {
+      imgId: "1E9GZCtVarsT5xIxyjQUjmMoStXvp6TsC",
+      delay: 300,
+    },
+    {
+      imgId: "1DN9EXSuI68JeaYX5-9UVQbsBIAtdIQkE",
+      delay: 400,
+    },
+    {
+      imgId: "1Dmo6BTKZU_MWSMtoTnQgubgxVUFtTp0b",
+      delay: 100,
+    },
+    {
+      imgId: "1DLZEax1LxvKcVCJIugN59DyH4Lq9Szq7",
+      delay: 200,
+    },
+    {
+      imgId: "1DfWM7GgrWwaMXrecZNQWTk_roVGva4F9",
+      delay: 300,
+    },
+    {
+      imgId: "1DOA3BBThp7BqSxFdX-j3J57l3ndySoHI",
+      delay: 400,
+    },
+    {
+      imgId: "1DbUFpN-VnFm7xI04l_c0RNkQwdMVFC1X",
+      delay: 100,
+    },
+    {
+      imgId: "1Dpg4n9V-bmfSkNLybL1AMMEU3u1nliy-",
+      delay: 200,
+    },
+    {
+      imgId: "1DTDQVrwtGEubt4yBTwCIgZsLi9WdXQud",
+      delay: 300,
+    },
+    {
+      imgId: "1J1BhBcV0D_2pUKJvoFW5QPkSbpYJtvsT",
+      delay: 400,
+    },
+    {
+      imgId: "1J52FkZDG7Y-xIuaeTb6J2wt4p9F7Yk2O",
+      delay: 100,
+    },
+    {
+      imgId: "1J5nGWUJsSSeSZq5XUwajluGoq-f0bsnq",
+      delay: 200,
+    },
+    {
+      imgId: "1J7FwV6vkodXtbCdIrSMFOwVVfccI2YuC",
+      delay: 300,
+    },
+    {
+      imgId: "12WYa-W5-akCVFjPHnU8BrtHhk6XB99US",
+      delay: 400,
+    },
+    {
+      imgId: "12R62bi9Ds_ykm2FGZ1Q6fAKO1YpHKk8e",
+      delay: 100,
+    },
+    {
+      imgId: "12KaTz4d7-qT6E_hrKcX97rHBX-vaNxMK",
+      delay: 200,
+    },
+    {
+      imgId: "12Izj7sF56KjoLKOmnUV_Acx5-hxaVgmo",
+      delay: 300,
+    },
+    {
+      imgId: "12_U7e5SraykEzIXHfxph98knuWAnnsDQ",
+      delay: 400,
+    },
+    {
+      imgId: "12Ba4fnb7wricEHK9Dioei8QJOBok-LZJ",
+      delay: 100,
+    },
+    {
+      imgId: "128cwE7ucM6hNYOZ_ZkHD_qFhCmQ2fCwI",
+      delay: 200,
+    },
+    {
+      imgId: "126DqloP4VZKpZXTJuAoCSluLgjkIFdEC",
+      delay: 300,
+    },
+    {
+      imgId: "125OkvKjOaRgM0_MqgniCPwM9jmlJXptN",
+      delay: 400,
+    },
+    {
+      imgId: "1248OYUptmk9AJWNoLxGnJAVLWDR1dwVx",
+      delay: 100,
+    },
+    {
+      imgId: "11uc9NNFfgb4sO90yZ0TVzZNwcooW64uB",
+      delay: 200,
+    },
+    {
+      imgId: "11lS0wbAD375EGJqdcYf3_P3FouSReeS4",
+      delay: 300,
+    },
+    {
+      imgId: "11i8Py0V8pt33VvBIJOn0Rre6EFYZbhvE",
+      delay: 400,
+    },
+    {
+      imgId: "12dcz2qbfs6Z_8fZ78CqLQOSdTG79mxPc",
+      delay: 100,
+    },
+    {
+      imgId: "1nIeXuhDDWEE3l_QVbRDm20E9sj58nodF",
+      delay: 200,
+    },
+    {
+      imgId: "1nPWEeyRbLsPUEno7ZgzBcBJxPWaeAsmN",
+      delay: 300,
+    },
+    {
+      imgId: "1nWr32p0x7NWPFFKKwZQ3Xpc5PIP_hUTG",
+      delay: 400,
+    },
+    {
+      imgId: "1niiRD9Zmp0pLUt59KIet4CD6OGmPonMC",
+      delay: 100,
+    },
+    {
+      imgId: "1nPoX0nuylxchkZIflEp76CZaMzrETMs3",
+      delay: 200,
+    },
+    {
+      imgId: "1nT62B3gRmbMB5GQlQ2QKb4BLsTkMJ-x3",
+      delay: 300,
+    },
+    {
+      imgId: "1o-QiBkYfx1-IiV40HI29pvRJyTMLWG0y",
+      delay: 400,
+    },
+    {
+      imgId: "1oxRYGr8r6VU2Z4jnLTezpg4gKtgZjYmU",
+      delay: 100,
+    },
+    {
+      imgId: "1oSiJJTQgA7VrRPjtcAHj7vVUoiA1-DIn",
+      delay: 200,
+    },
+    {
+      imgId: "1owY4ErmSAL7cXx5oUqhJMk4uncO1r0Ub",
+      delay: 300,
+    },
+    {
+      imgId: "1p-u5ppYf3wSwVU4M8GFfO7azdpNmeEuD",
+      delay: 400,
+    },
+    {
+      imgId: "1pCVCIY1u0-S4PswXcS1sD6ubRqsbpVgn",
+      delay: 100,
+    },
+    {
+      imgId: "1pC4udyfr5Y7tlezT67RCT7sI5SnBZFIK",
+      delay: 200,
+    },
+    {
+      imgId: "1oH0-LX2d1zSo6Va6ZZCNr4J2sg45XrQM",
+      delay: 300,
+    },
+    {
+      imgId: "1o4IFNzkRapBBCr1lcd3RpLfOswB85sdt",
+      delay: 400,
+    },
+    {
+      imgId: "1o4S0bd4GkyhSd4q3Hx8dxhY-93P1u-jR",
+      delay: 100,
+    },
+    {
+      imgId: "1oItLyuWj1cSrYVD22KmlDcX-7l9aMjC3",
+      delay: 200,
+    },
+    {
+      imgId: "1oM6AsCGYIoU-E7GlEjyEqE37MueVJ9gb",
+      delay: 300,
+    },
+    {
+      imgId: "1pp_DygGNmEojdQh9HnE364UC8FdtpbPp",
+      delay: 400,
+    },
+    {
+      imgId: "1pvwTeiA03V8dtB_LoMLff3W6_0Pibo27",
+      delay: 100,
+    },
+    {
+      imgId: "1pyfR6fwgD0SEE_uXAkPQFa2Wma_7a21B",
+      delay: 200,
+    },
+    {
+      imgId: "1pfZleWdfm_q_TB4zyDWqPTJJFK2Tdu9c",
+      delay: 300,
+    },
+    {
+      imgId: "1pkpdwhAXBKBT4r_f-3tzD5W60fPgK--B",
+      delay: 400,
+    },
+    {
+      imgId: "1wlfFa0RVoCJQVuhqaJSqdDcxZj6Y5W0z",
+      delay: 100,
+    },
+    {
+      imgId: "1wcRlIlmquJjg6PQTefOdiIV_edpM5rxJ",
+      delay: 200,
+    },
+    {
+      imgId: "1x0Ej6XlVRvN1CxXwSfO-6t68cxdYEjmo",
+      delay: 300,
+    },
+    {
+      imgId: "1wzXSgloLnZ8UOWWuHoyvfPU1N0a8BiYD",
+      delay: 400,
+    },
+    {
+      imgId: "1VJ7286kV4sQak7G9gPZzNXz9yu7a_G4a",
+      delay: 100,
+    },
+    {
+      imgId: "1tKcqhO9zKJPxeY0Pz8RwYTXrPwJ8PhPG",
+      delay: 200,
+    },
+    {
+      imgId: "1ps2lLW_9L8j7pXUuN1tJOAnKbPeV-4m-",
+      delay: 300,
+    },
+    {
+      imgId: "1fZvpegS6-Y2AMFbBmFp3U5C93E9sq0IL",
+      delay: 400,
+    },
+    {
+      imgId: "1Pa1YIrw7bMin1OsoYtInsMfFHB9PREH8",
+      delay: 100,
+    },
+    {
+      imgId: "1pEoPEco7mLvPIQA2A0hGurjjwR8K_Bqg",
+      delay: 200,
+    },
+    {
+      imgId: "1TKxzDQ-CdRzyASk5lBcbEwhkHalXS5lF",
+      delay: 300,
+    },
+    {
+      imgId: "1GCIUzz5fNWN-lCIJTPNcgfSJPEzJOVWF",
+      delay: 400,
+    },
+    {
+      imgId: "12JtvSEuACg4ceA8Bnc9so6LUqqU7dVeQ",
+      delay: 100,
+    },
+    {
+      imgId: "1zQjEfqYdXdYX42Qg_mIqiHc4DwPvBD7R",
+      delay: 200,
+    },
+    {
+      imgId: "12HdnWvFtN_LPOwUK4n-VF3v1P9XX61WA",
+      delay: 300,
+    },
+    {
+      imgId: "1xBYPLDCYDoqcAfxAJ598I1U49MYMzfZ7",
+      delay: 400,
+    },
+    {
+      imgId: "1xNYqxw9wueIZECP4R6MfOdxhmEc5I3Wv",
+      delay: 100,
+    },
+    {
+      imgId: "1xKmgWuM1he_zMbXvD2lVh1loYOWDMYc_",
+      delay: 200,
+    },
+    {
+      imgId: "1xQemRr2NynZ7wyqIqoNcBuvlJ2QFh53w",
+      delay: 300,
+    },
+    {
+      imgId: "1xa8gSx7oCVJh_Yb06pVM5HzPwmElgFzC",
+      delay: 400,
+    },
+    {
+      imgId: "1xYb3CmEDVAscbYXBjxtfP2YrtQddPR4F",
+      delay: 100,
+    },
+    {
+      imgId: "1byUveR02EDr3CsWAnK7y-gFBKdMXykG4",
+      delay: 200,
+    },
+    {
+      imgId: "1NXs1RekowBapxI1AORonMu30g2FhQ7HU",
+      delay: 300,
+    },
+    {
+      imgId: "1EHNa-c0TLLGrU90bikqRgptUIg38Dsr9",
+      delay: 400,
     },
   ];
 
