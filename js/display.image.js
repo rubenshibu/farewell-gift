@@ -944,5 +944,6 @@ $(document).ready(function () {
                   </div>
                 </a>
               </div>`);
+              console.log(document.getElementById("uploadPreview"));
   });
 });
