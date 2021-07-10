@@ -15,10 +15,7 @@ jQuery(document).ready(function ($) {
 		//Show and Hide message
 		$("#ctr").show().delay(500).fadeOut();
 	});
-
-
-
-
+	
 	var siteMenuClone = function () {
 
 		$('.js-clone-nav').each(function () {

@@ -934,11 +934,11 @@ $(document).ready(function () {
     $(".images")
       .append(`<div class="col-6 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="${img.delay}">
                 <a
-                  href="https://drive.google.com/thumbnail?id=${img.imgId}"
+                  href="https://static.toiimg.com/photo/58623495.cms"
                   class="d-block photo-item"
                   data-fancybox="gallery"
                 >
-                  <img src="https://drive.google.com/thumbnail?id=${img.imgId}" alt="Image" class="img-fluid" />
+                  <img src="https://static.toiimg.com/photo/58623495.cms" alt="Image" class="img-fluid" />
                   <div class="photo-text-more">
                     <span class="icon icon-search"></span>
                   </div>
