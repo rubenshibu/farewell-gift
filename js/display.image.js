@@ -1,4 +1,6 @@
 $(document).ready(function () {
+  // all images
+
   let image = [
     {
       imgId: "17kRX24qPHvyuRXU9JXl_E2cmlm7TFGe0",
@@ -930,6 +932,348 @@ $(document).ready(function () {
     },
   ];
 
+  // first year
+
+  let firstYear = [
+    {
+      imgId: "1laD0Wi4tgNafesP-0-fP-jRvPFbSTuWp",
+      delay: 100,
+    },
+    {
+      imgId: "1pcHScnbIcmebAK6AqFX7o0D38Y7Tdwl6",
+      delay: 200,
+    },
+    {
+      imgId: "1JTI9lb1uH5xdp-a1t55VXa4m5R0xAqDt",
+      delay: 300,
+    },
+    {
+      imgId: "1jDJvauCgJwy2ilb596-8xXLO1BsNFWfY",
+      delay: 400,
+    },
+    {
+      imgId: "1dAG7SOWiRo894oZAM7ylyAd9XVeUdaen",
+      delay: 100,
+    },
+    {
+      imgId: "1u_VdwX8MM767T7ac-PzZ7z3jT6moR9_g",
+      delay: 200,
+    },
+    {
+      imgId: "18Ur0eoCKxmmwxpmxVKUXWp8BDIsueVmg",
+      delay: 300,
+    },
+    {
+      imgId: "19zFNBlOWAuSLLPefhB-d-NrhljwZld5e",
+      delay: 400,
+    },
+    {
+      imgId: "177qvOjMilE2ecULfiB2ydKQhVZvBUTlp",
+      delay: 100,
+    },
+    {
+      imgId: "1bDm3LvGeVe59iJPiwUmblAUOFa7zBHEZ",
+      delay: 200,
+    },
+    {
+      imgId: "1PHJrTDRQ73kWyKMdYm9DQ56f2ioUj4mM",
+      delay: 300,
+    },
+    {
+      imgId: "1kbaZTXJbUcDaFk8Pgysg7CU4G5NVcOb-",
+      delay: 400,
+    },
+    {
+      imgId: "1vFFHSSJ0FV9EmPYt_N6X4DzFOJwjhb4X",
+      delay: 100,
+    },
+    {
+      imgId: "1iHGB3Dz4fFV4bWxy0GBvh7B-N6IvzKtj",
+      delay: 200,
+    },
+    {
+      imgId: "1PhJHdaH21TIrtI57fhncUh8X0v0Wy1sI",
+      delay: 300,
+    },
+    {
+      imgId: "1JADm_82OAZTHk4j7xXuSJP0mtWAxIyWE",
+      delay: 400,
+    },
+    {
+      imgId: "1IfXHevKKkcC0bcgSHVHjvrCoJNdNFPaY",
+      delay: 100,
+    },
+    {
+      imgId: "1C6dQHZ6l9KXLGrwxq96NvtvdEIxpSmUI",
+      delay: 200,
+    },
+    {
+      imgId: "1tpuo_ilqzeG7IQpnxwujH7-Pr3F6qdS9",
+      delay: 300,
+    },
+    {
+      imgId: "17XxCwTRPlafc4MLeJvY30lWXHWMmv2Wq",
+      delay: 400,
+    },
+    {
+      imgId: "1wUihpsewLC49Iu5seREoXIpda4SmhPba",
+      delay: 100,
+    },
+    {
+      imgId: "1wK4AcKzgOvoU-KE7nt-YTvdKhb1dFp1g",
+      delay: 200,
+    },
+    {
+      imgId: "1w8VpNxZLBzvJqtVsqoVD2YZYSIv9k3hs",
+      delay: 300,
+    },
+    {
+      imgId: "1wGNAsZ_Y3FXWktZ6gLx_G_llU4YnwNSu",
+      delay: 400,
+    },
+    {
+      imgId: "1wAnRClN9Zq5dzYphKQJ95_M__yN-KEPh",
+      delay: 100,
+    },
+    {
+      imgId: "1wYEzERY5sTZG0w5Denb90sfBRUWj67qu",
+      delay: 200,
+    },
+    {
+      imgId: "1w8AALbLZISWgYzH11R3FIibcKffZ5nU1",
+      delay: 300,
+    },
+    {
+      imgId: "1u8alntVO5N-DqapiNbs86MHWmA0UvdWq",
+      delay: 400,
+    },
+  ];
+
+  let secondYear = [
+    {
+      imgId: "1ymz5o6vWodacvpkVKwMuaafOGxbNJVY4",
+      delay: 100,
+    },
+    {
+      imgId: "1SHsXoeEer_cogXCntTgwZeX5rALbmL4G",
+      delay: 200,
+    },
+    {
+      imgId: "1YNlfHoihri280YeqeFahezeZkRpogx-0",
+      delay: 300,
+    },
+    {
+      imgId: "1_uA_zPNSJZtlzb_n-4nlnb3hQZ8-G_ck",
+      delay: 400,
+    },
+    {
+      imgId: "1N8s90YW-cF5QJJmff3O-XFGZxn0_py6g",
+      delay: 100,
+    },
+    {
+      imgId: "1PEgwSEQzu-Tjeng2IRVUaqamZrtx1MeZ",
+      delay: 200,
+    },
+    {
+      imgId: "1wzw-PD3AU4g9jfaPzl9zoU4SUwv1oe2T",
+      delay: 300,
+    },
+    {
+      imgId: "1ZtvJoNEH_Or-g-cbIEZqpkMhYOhR2beN",
+      delay: 400,
+    },
+    {
+      imgId: "1p5dfRbJf2-xofHbu3WaU_c-X60d7SWCb",
+      delay: 100,
+    },
+    {
+      imgId: "1gZCkQORh7HuILbUkb7p-w2vB8krwZzkL",
+      delay: 200,
+    },
+    {
+      imgId: "1gpCu8gyYtEX10b98gLzV1d4awzfCPq6h",
+      delay: 300,
+    },
+    {
+      imgId: "1ActmW4wTI2dQQjerpz853PMZJJpSrecn",
+      delay: 400,
+    },
+    {
+      imgId: "1Nw_7e-YpRbnWDAgBm3YT9dZe3-YXaSIP",
+      delay: 100,
+    },
+    {
+      imgId: "1VVZJDilQt_pOtJOaIXuehamiNrrSLZvg",
+      delay: 200,
+    },
+    {
+      imgId: "1HaIaoZJzy0LKATbzKeEXNck4ofNLkjzK",
+      delay: 300,
+    },
+    {
+      imgId: "1XANwMlW0jgjaY9vrfwIuBUAI2RtDHhTL",
+      delay: 400,
+    },
+    {
+      imgId: "1FDJnXpO7xUfpJVdG3FreOUwbg99oT3yn",
+      delay: 100,
+    },
+    {
+      imgId: "1s2K1K6wB9_9_5Wrlhn1oqjn8W5shVWwO",
+      delay: 200,
+    },
+    {
+      imgId: "1UBRhcsYQYn5hKnob1szbgDPSBJSIMNRc",
+      delay: 300,
+    },
+    {
+      imgId: "1gUrQiSMtt6Mtc0C9x9h0_7eUorIDtNVX",
+      delay: 400,
+    },
+    {
+      imgId: "1Ich51iGjJ8SVpw1M9VaD1fA4KXjxa-8v",
+      delay: 100,
+    },
+    {
+      imgId: "1IyjAzktAhPh9VroDBBTppVhGGHCjxIoJ",
+      delay: 200,
+    },
+  ];
+
+  let thirdYear = [
+    {
+      imgId: "15-gFFVOCfmwgMuQ-ytSUPNLHIU8xKaNI",
+      delay: 100,
+    },
+    {
+      imgId: "10aN9MlHBQaUWU1ICWq7QjjWhM5bxhrEI",
+      delay: 200,
+    },
+    {
+      imgId: "1uJeOq8YGIEt78pXd7Dz0ve7fY8pTAwiZ",
+      delay: 300,
+    },
+    {
+      imgId: "1M8Ih4MzvjTO94nvgrnPZlKT7b0hnrhXU",
+      delay: 400,
+    },
+    {
+      imgId: "19dhi6khAYMR250URNNl7LFu0vYpRr9t1",
+      delay: 100,
+    },
+    {
+      imgId: "1SugNmHNP1NJLw2cUNoyNBx-9k1_EYSOG",
+      delay: 200,
+    },
+    {
+      imgId: "1j5FrPIEbYtqTjjvh4MDy7wUeJeInoClC",
+      delay: 300,
+    },
+    {
+      imgId: "13Xv-P0B_urUBTGlWwOLfodMfOonGrGQX",
+      delay: 400,
+    },
+    {
+      imgId: "1Hh9GCpub_ujr_zfiwzdJZqv79yi7TMRo",
+      delay: 100,
+    },
+    {
+      imgId: "1zC3kqcA4cWyUw68Nd7qQlUoLBf9QUqiY",
+      delay: 200,
+    },
+    {
+      imgId: "1EyrirMdWqnZsAHB_da71AbSYVs_2Q7oL",
+      delay: 300,
+    },
+    {
+      imgId: "17uwQ0h2IKi0y4dRiR3uo1YrvgKKqFM00",
+      delay: 400,
+    },
+    {
+      imgId: "1BZGIVTLpQG9J_pmJQyAoRYRuN_sJU8gW",
+      delay: 100,
+    },
+    {
+      imgId: "1dWFhi6YWNPxvIa4SOJKe78OKq2ofOLCE",
+      delay: 200,
+    },
+    {
+      imgId: "1z0LtQdvAEKYzTUVkEOJ0sPH-EqwIb41f",
+      delay: 300,
+    },
+    {
+      imgId: "1y3pbnnUFYAfRbjMS94yp2flgcpS4Ld-F",
+      delay: 400,
+    },
+    {
+      imgId: "1cbmb7Eyop50br30f21JWOIDkH5CqIL3h",
+      delay: 100,
+    },
+    {
+      imgId: "1n-eo8-QVbKDbAsFpfvmhwIgpOybTy5j1",
+      delay: 200,
+    },
+    {
+      imgId: "1c4JLRoTdHSJUAr57XTaUct3WsONZjoot",
+      delay: 300,
+    },
+    {
+      imgId: "1M0CyzRYD5oxnhAotFlBZDk8kPXc2AdcT",
+      delay: 400,
+    },
+    {
+      imgId: "1M0CyzRYD5oxnhAotFlBZDk8kPXc2AdcT",
+      delay: 100,
+    },
+    {
+      imgId: "1M0CyzRYD5oxnhAotFlBZDk8kPXc2AdcT",
+      delay: 200,
+    },
+    {
+      imgId: "1c7JoorU2bOT7XaUuU6b96nZGT30GE-lr",
+      delay: 300,
+    },
+    {
+      imgId: "10ujf0WV1WWooUgnFVcKnpKPsuaWOCzZg",
+      delay: 400,
+    },
+    {
+      imgId: "1w5sjnOXocqZNb0xc7Dn5BKfRZZS65IHH",
+      delay: 100,
+    },
+    {
+      imgId: "1k5-ql3rP7EAMeNDh0lr97AsxAGJSBGdO",
+      delay: 200,
+    },
+    {
+      imgId: "11DF7WYClpkYgW-50DAfn1vA79dXoWVH-",
+      delay: 300,
+    },
+    {
+      imgId: "1xycGt0F9_Ohoan5Lxevciy2el8ovmblF",
+      delay: 400,
+    },
+  ];
+
+  let fourthYear = [
+    {
+      imgId: "1s1m4INRQ6tgdCa7BpIzZTkPpJ2QxZuy3",
+      delay: 100,
+    },
+    {
+      imgId: "1TDZjeArDrUQATxs0dMcP2c8dTX5FDyWo",
+      delay: 200,
+    },
+    {
+      imgId: "1vUMnMTgAz2ZRoJSkGBM4tGdkal2qFVn7",
+      delay: 300,
+    },
+    {
+      imgId: "1vdBx6jhUIlGqdXvoB4JxRlplVUpkQGtj",
+      delay: 400,
+    },
+  ];
+
   image.forEach((img) => {
     $(".images")
       .append(`<div class="col-6 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="${img.delay}">
@@ -944,6 +1288,69 @@ $(document).ready(function () {
                   </div>
                 </a>
               </div>`);
-              console.log(document.getElementById("uploadPreview"));
+  });
+
+  firstYear.forEach((img) => {
+    $(".first-year")
+      .append(`<div class="col-6 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="${img.delay}">
+                <a
+                  href="https://drive.google.com/thumbnail?id=${img.imgId}"
+                  class="d-block photo-item"
+                  data-fancybox="gallery"
+                >
+                  <img src="https://drive.google.com/thumbnail?id=${img.imgId}" alt="Image" class="img-fluid" />
+                  <div class="photo-text-more">
+                    <span class="icon icon-search"></span>
+                  </div>
+                </a>
+              </div>`);
+  });
+
+  secondYear.forEach((img) => {
+    $(".second-year")
+      .append(`<div class="col-6 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="${img.delay}">
+                <a
+                  href="https://drive.google.com/thumbnail?id=${img.imgId}"
+                  class="d-block photo-item"
+                  data-fancybox="gallery"
+                >
+                  <img src="https://drive.google.com/thumbnail?id=${img.imgId}" alt="Image" class="img-fluid" />
+                  <div class="photo-text-more">
+                    <span class="icon icon-search"></span>
+                  </div>
+                </a>
+              </div>`);
+  });
+
+  thirdYear.forEach((img) => {
+    $(".third-year")
+      .append(`<div class="col-6 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="${img.delay}">
+                <a
+                  href="https://drive.google.com/thumbnail?id=${img.imgId}"
+                  class="d-block photo-item"
+                  data-fancybox="gallery"
+                >
+                  <img src="https://drive.google.com/thumbnail?id=${img.imgId}" alt="Image" class="img-fluid" />
+                  <div class="photo-text-more">
+                    <span class="icon icon-search"></span>
+                  </div>
+                </a>
+              </div>`);
+  });
+
+  fourthYear.forEach((img) => {
+    $(".fourth-year")
+      .append(`<div class="col-6 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="${img.delay}">
+                <a
+                  href="https://drive.google.com/thumbnail?id=${img.imgId}"
+                  class="d-block photo-item"
+                  data-fancybox="gallery"
+                >
+                  <img src="https://drive.google.com/thumbnail?id=${img.imgId}" alt="Image" class="img-fluid" />
+                  <div class="photo-text-more">
+                    <span class="icon icon-search"></span>
+                  </div>
+                </a>
+              </div>`);
   });
 });
