@@ -19,10 +19,6 @@ $(document).ready(function () {
       delay: 200,
     },
     {
-      imgId: "1PFIoeKwNl5ZaAzM-OtthGUnQ08RLw-fm",
-      delay: 400,
-    },
-    {
       imgId: "151xXgkP3C52yk4QUFYIaZo_fkyPsIyOw",
       delay: 100,
     },
