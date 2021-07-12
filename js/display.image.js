@@ -1724,8 +1724,8 @@ $(document).ready(function () {
 
   let allStudents = [
     {
-      imgId: "1s1m4INRQ6tgdCa7BpIzZTkPpJ2QxZuy3",
-      name: "Tonal",
+      imgId: "",
+      name: "",
       instaId: "",
       delay: 100,
     },
