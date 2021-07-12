@@ -19,20 +19,8 @@ $(document).ready(function () {
       delay: 200,
     },
     {
-      imgId: "151xXgkP3C52yk4QUFYIaZo_fkyPsIyOw",
-      delay: 100,
-    },
-    {
       imgId: "1s-4uXYvExEdwCW7c-bwsoxGRUPK1WYNR",
       delay: 200,
-    },
-    {
-      imgId: "1m93FUS_KAhqpdjaUz06dGMdZyEcGZbwp",
-      delay: 300,
-    },
-    {
-      imgId: "1dWFIhbJDtXlYFT75CfX20cchOrQLvzPI",
-      delay: 400,
     },
     {
       imgId: "1lQTxlF9pVEelrscGbGtRM1a5Qlvbok30",
