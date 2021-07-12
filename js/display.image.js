@@ -22,22 +22,6 @@ $(document).ready(function () {
       imgId: "1PFIoeKwNl5ZaAzM-OtthGUnQ08RLw-fm",
       delay: 400,
     },
-    // {
-    //   imgId: "1tf6EUU8iTwDWZuIClm2mkfujBI7f3dAA",
-    //   delay: 100,
-    // },
-    // {
-    //   imgId: "1JBfJ9I1husjiv-vUZ8e_emH_nd_o1Nuh",
-    //   delay: 200,
-    // },
-    // {
-    //   imgId: "1VatxjzfCHkCUzsdiXq8jOIahFzQVAVL7",
-    //   delay: 300,
-    // },
-    // {
-    //   imgId: "1fFPuQiqEHCENNgUSblzuPz7BLv5pDStW",
-    //   delay: 400,
-    // },
     {
       imgId: "151xXgkP3C52yk4QUFYIaZo_fkyPsIyOw",
       delay: 100,
