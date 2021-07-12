@@ -1,3 +1,4 @@
+
 /* Base */
 body {
   line-height: 1.7;
@@ -757,7 +758,7 @@ h1, h2, h3, h4, h5,
   .custom-pagination a {
     border-radius: 50%; }
     .custom-pagination a:hover {
-      background: #ef6c57;
+      background: #272625;
       color: #fff; }
 
 
