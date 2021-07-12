@@ -31,25 +31,10 @@ $(document).ready(function () {
       delay: 200,
     },
     {
-      imgId: "1H0kH1wPxqktwLypBhff_6Ntt-pWD1bnc",
-      delay: 300,
-    },
-    {
       imgId: "14hzKguHWQZ4zGJttVO9ureT8ELS0lU0h",
       delay: 400,
     },
-    {
-      imgId: "14k5fSXSht74bgvGs5gNnMDATCDlBmu2X",
-      delay: 100,
-    },
-    {
-      imgId: "14mbVPiALq8YBIiA9MhqYau3PPv0tcp27",
-      delay: 200,
-    },
-    {
-      imgId: "14qxyRJBBi04bRgXYjV2jj8NgS_uuY551",
-      delay: 300,
-    },
+    
     {
       imgId: "14sln3lTHylG31dgCORJkdI_aqNClhP5e",
       delay: 400,
