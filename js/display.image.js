@@ -34,7 +34,7 @@ $(document).ready(function () {
       imgId: "14hzKguHWQZ4zGJttVO9ureT8ELS0lU0h",
       delay: 400,
     },
-    
+
     {
       imgId: "14sln3lTHylG31dgCORJkdI_aqNClhP5e",
       delay: 400,
@@ -1661,664 +1661,664 @@ $(document).ready(function () {
 
   let csa = [
     {
-      "name": "ABDHUL AZEEZ P S",
-      "instaId": "captn_azi",
-      "link": "./images/Single/CSA/ABDHUL%20AZEEZ%20P%20S.jpg "
+      name: "ABDHUL AZEEZ P S",
+      instaId: "captn_azi",
+      link: "./images/Single/CSA/ABDHUL%20AZEEZ%20P%20S.jpg ",
     },
     {
-      "name": "ABIN JOSEPH",
-      "instaId": "_abinjoseph",
-      "link": "./images/Single/CSA/ABIN%20JOSEPH.jpg"
+      name: "ABIN JOSEPH",
+      instaId: "_abinjoseph",
+      link: "./images/Single/CSA/ABIN%20JOSEPH.jpg",
     },
     {
-      "name": "ADITHYA ANIL",
-      "instaId": "adithyaanil._",
-      "link": "./images/Single/CSA/ADITHYA%20ANIL.jpg"
+      name: "ADITHYA ANIL",
+      instaId: "adithyaanil._",
+      link: "./images/Single/CSA/ADITHYA%20ANIL.jpg",
     },
     {
-      "name": "AFIF CHETTUPARAMBIL ASHARAF",
-      "instaId": "afeef_786me_._",
-      "link": "./images/Single/CSA/AFIF%20CHETTUPARAMBIL%20ASHARAF.jpg"
+      name: "AFIF CHETTUPARAMBIL ASHARAF",
+      instaId: "afeef_786me_._",
+      link: "./images/Single/CSA/AFIF%20CHETTUPARAMBIL%20ASHARAF.jpg",
     },
     {
-      "name": "AGIN ALEX",
-      "instaId": "",
-      "link": "./images/Single/CSA/AGIN%20ALEX.jpg"
+      name: "AGIN ALEX",
+      instaId: "",
+      link: "./images/Single/CSA/AGIN%20ALEX.jpg",
     },
     {
-      "name": "AJESH",
-      "instaId": "ajesh___",
-      "link": "./images/Single/CSA/AJESH.jpg"
+      name: "AJESH",
+      instaId: "ajesh___",
+      link: "./images/Single/CSA/AJESH.jpg",
     },
     {
-      "name": "AKASH JAMES",
-      "instaId": "_akashjames",
-      "link": "./images/Single/CSA/AKASH%20JAMES.jpg"
+      name: "AKASH JAMES",
+      instaId: "_akashjames",
+      link: "./images/Single/CSA/AKASH%20JAMES.jpg",
     },
     {
-      "name": "AKASH SUNOJ",
-      "instaId": "akash_sunoj",
-      "link": "./images/Single/CSA/AKASH%20SUNOJ.jpg"
+      name: "AKASH SUNOJ",
+      instaId: "akash_sunoj",
+      link: "./images/Single/CSA/AKASH%20SUNOJ.jpg",
     },
     {
-      "name": "AKHIL ANAND",
-      "instaId": "",
-      "link": "./images/Single/CSA/AKHIL%20ANAND.jpg"
+      name: "AKHIL ANAND",
+      instaId: "",
+      link: "./images/Single/CSA/AKHIL%20ANAND.jpg",
     },
     {
-      "name": "AKHIL G S",
-      "instaId": "g.s_akhil",
-      "link": "./images/Single/CSA/AKHIL%20G%20S.jpg"
+      name: "AKHIL G S",
+      instaId: "g.s_akhil",
+      link: "./images/Single/CSA/AKHIL%20G%20S.jpg",
     },
     {
-      "name": "AKHIL JOHNY",
-      "instaId": "akhil_jo_",
-      "link": "./images/Single/CSA/AKHIL%20JOHNY.jpg"
+      name: "AKHIL JOHNY",
+      instaId: "akhil_jo_",
+      link: "./images/Single/CSA/AKHIL%20JOHNY.jpg",
     },
     {
-      "name": "ALAN MATHEW",
-      "instaId": "_i_am_alan_",
-      "link": "./images/Single/CSA/ALAN%20MATHEW.jpg"
+      name: "ALAN MATHEW",
+      instaId: "_i_am_alan_",
+      link: "./images/Single/CSA/ALAN%20MATHEW.jpg",
     },
     {
-      "name": "ALBIN JOSE",
-      "instaId": "albin_.jose_",
-      "link": "./images/Single/CSA/ALBIN%20JOSE.jpg"
+      name: "ALBIN JOSE",
+      instaId: "albin_.jose_",
+      link: "./images/Single/CSA/ALBIN%20JOSE.jpg",
     },
     {
-      "name": "ALBIN THANKACHAN",
-      "instaId": "__.albin.__",
-      "link": "./images/Single/CSA/ALBIN%20THANKACHAN.jpg"
+      name: "ALBIN THANKACHAN",
+      instaId: "__.albin.__",
+      link: "./images/Single/CSA/ALBIN%20THANKACHAN.jpg",
     },
     {
-      "name": "ALEN SEBASTIAN",
-      "instaId": "alen.seb",
-      "link": "./images/Single/CSA/ALEN%20SEBASTIAN.jpg"
+      name: "ALEN SEBASTIAN",
+      instaId: "alen.seb",
+      link: "./images/Single/CSA/ALEN%20SEBASTIAN.jpg",
     },
     {
-      "name": "ALPHONSE TREESSA JACOB",
-      "instaId": "_.treessa._ ",
-      "link": "./images/Single/CSA/ALPHONSE%20TREESSA%20JACOB.jpg"
+      name: "ALPHONSE TREESSA JACOB",
+      instaId: "_.treessa._ ",
+      link: "./images/Single/CSA/ALPHONSE%20TREESSA%20JACOB.jpg",
     },
     {
-      "name": "ALVIN ABRAHAM THOMAS",
-      "instaId": "alvinat007",
-      "link": "./images/Single/CSA/ALVIN%20ABRAHAM%20THOMAS.jpg"
+      name: "ALVIN ABRAHAM THOMAS",
+      instaId: "alvinat007",
+      link: "./images/Single/CSA/ALVIN%20ABRAHAM%20THOMAS.jpg",
     },
     {
-      "name": "ALWIN DANI SAM",
-      "instaId": "alwin_dani",
-      "link": "./images/Single/CSA/ALWIN%20DANI%20SAM.jpg"
+      name: "ALWIN DANI SAM",
+      instaId: "alwin_dani",
+      link: "./images/Single/CSA/ALWIN%20DANI%20SAM.jpg",
     },
     {
-      "name": "AMAL JOSE",
-      "instaId": "amal.j0se",
-      "link": "./images/Single/CSA/AMAL%20JOSE.jpg"
+      name: "AMAL JOSE",
+      instaId: "amal.j0se",
+      link: "./images/Single/CSA/AMAL%20JOSE.jpg",
     },
     {
-      "name": "AMAL JOSE",
-      "instaId": "amal_jose_007",
-      "link": "./images/Single/CSA/AMAL%20JOSE2.jpg"
+      name: "AMAL JOSE",
+      instaId: "amal_jose_007",
+      link: "./images/Single/CSA/AMAL%20JOSE2.jpg",
     },
     {
-      "name": "AMALA AUGUSTINE",
-      "instaId": "a_m_a_l_a_a_u_g_u_s_t_i_n_e",
-      "link": "./images/Single/CSA/AMALA%20AUGUSTINE.jpg"
+      name: "AMALA AUGUSTINE",
+      instaId: "a_m_a_l_a_a_u_g_u_s_t_i_n_e",
+      link: "./images/Single/CSA/AMALA%20AUGUSTINE.jpg",
     },
     {
-      "name": "AN MARIA SHAJAN",
-      "instaId": "shaj_an__a_an",
-      "link": "./images/Single/CSA/AN%20MARIA%20SHAJAN.jpg"
+      name: "AN MARIA SHAJAN",
+      instaId: "shaj_an__a_an",
+      link: "./images/Single/CSA/AN%20MARIA%20SHAJAN.jpg",
     },
     {
-      "name": "ANAGHA SAJI",
-      "instaId": "saji_anagha",
-      "link": "./images/Single/CSA/ANAGHA%20SAJI.jpg"
+      name: "ANAGHA SAJI",
+      instaId: "saji_anagha",
+      link: "./images/Single/CSA/ANAGHA%20SAJI.jpg",
     },
     {
-      "name": "ANCHU BABU",
-      "instaId": "",
-      "link": "./images/Single/CSA/ANCHU%20BABU.jpg"
+      name: "ANCHU BABU",
+      instaId: "",
+      link: "./images/Single/CSA/ANCHU%20BABU.jpg",
     },
     {
-      "name": "ANDRIA GEORGE",
-      "instaId": "dimple_l_o_v_e",
-      "link": "./images/Single/CSA/ANDRIA%20GEORGE.jpg"
+      name: "ANDRIA GEORGE",
+      instaId: "dimple_l_o_v_e",
+      link: "./images/Single/CSA/ANDRIA%20GEORGE.jpg",
     },
     {
-      "name": "ANEENA KURIAN",
-      "instaId": "an_ena_kurian",
-      "link": "./images/Single/CSA/ANEENA%20KURIAN.jpg"
+      name: "ANEENA KURIAN",
+      instaId: "an_ena_kurian",
+      link: "./images/Single/CSA/ANEENA%20KURIAN.jpg",
     },
     {
-      "name": "ANEESH JOSE",
-      "instaId": "aneesh_jose_",
-      "link": "./images/Single/CSA/ANEESH%20JOSE.jpg"
+      name: "ANEESH JOSE",
+      instaId: "aneesh_jose_",
+      link: "./images/Single/CSA/ANEESH%20JOSE.jpg",
     },
     {
-      "name": "ANGEL ANDREWS K",
-      "instaId": "angel__sar_ah",
-      "link": "./images/Single/CSA/ANGEL%20ANDREWS%20K.jpg"
+      name: "ANGEL ANDREWS K",
+      instaId: "angel__sar_ah",
+      link: "./images/Single/CSA/ANGEL%20ANDREWS%20K.jpg",
     },
     {
-      "name": "ANGEL GEORGE",
-      "instaId": "angelgeorge2212",
-      "link": "./images/Single/CSA/ANGEL%20GEORGE.jpg"
+      name: "ANGEL GEORGE",
+      instaId: "angelgeorge2212",
+      link: "./images/Single/CSA/ANGEL%20GEORGE.jpg",
     },
     {
-      "name": "ANJANA ANN JAMES",
-      "instaId": "anju_anjiyah_ ",
-      "link": "./images/Single/CSA/ANJANA%20ANN%20JAMES.jpg"
+      name: "ANJANA ANN JAMES",
+      instaId: "anju_anjiyah_ ",
+      link: "./images/Single/CSA/ANJANA%20ANN%20JAMES.jpg",
     },
     {
-      "name": "ANN MARIA BIJU",
-      "instaId": "",
-      "link": "./images/Single/CSA/ANN%20MARIA%20BIJU.jpg"
+      name: "ANN MARIA BIJU",
+      instaId: "",
+      link: "./images/Single/CSA/ANN%20MARIA%20BIJU.jpg",
     },
     {
-      "name": "ANN MARY SONA SUNIL",
-      "instaId": "__sona__sunil",
-      "link": "./images/Single/CSA/ANN%20MARY%20SONA%20SUNIL.jpg"
+      name: "ANN MARY SONA SUNIL",
+      instaId: "__sona__sunil",
+      link: "./images/Single/CSA/ANN%20MARY%20SONA%20SUNIL.jpg",
     },
     {
-      "name": "ANN S VETTOOR",
-      "instaId": "ann.s.vettoor",
-      "link": "./images/Single/CSA/ANN%20S%20VETTOOR.jpg"
+      name: "ANN S VETTOOR",
+      instaId: "ann.s.vettoor",
+      link: "./images/Single/CSA/ANN%20S%20VETTOOR.jpg",
     },
     {
-      "name": "ANN TITTA TM",
-      "instaId": "",
-      "link": "./images/Single/CSA/ANN%20TITTA%20TM.jpg"
+      name: "ANN TITTA TM",
+      instaId: "",
+      link: "./images/Single/CSA/ANN%20TITTA%20TM.jpg",
     },
     {
-      "name": "ANSU ABRAHAM",
-      "instaId": "",
-      "link": "./images/Single/CSA/ANSU%20ABRAHAM.jpg"
+      name: "ANSU ABRAHAM",
+      instaId: "",
+      link: "./images/Single/CSA/ANSU%20ABRAHAM.jpg",
     },
     {
-      "name": "ANTONY THOMAS",
-      "instaId": "theweirdass",
-      "link": "./images/Single/CSA/ANTONY%20THOMAS.jpg"
+      name: "ANTONY THOMAS",
+      instaId: "theweirdass",
+      link: "./images/Single/CSA/ANTONY%20THOMAS.jpg",
     },
     {
-      "name": "ANUGRAHA A",
-      "instaId": "_.anugraha_anil._",
-      "link": "./images/Single/CSA/ANUGRAHA%20A.jpg"
+      name: "ANUGRAHA A",
+      instaId: "_.anugraha_anil._",
+      link: "./images/Single/CSA/ANUGRAHA%20A.jpg",
     },
     {
-      "name": "ASHISH PRAKASH",
-      "instaId": "ashi5h_",
-      "link": "./images/Single/CSA/ASHISH%20PRAKASH.jpg"
+      name: "ASHISH PRAKASH",
+      instaId: "ashi5h_",
+      link: "./images/Single/CSA/ASHISH%20PRAKASH.jpg",
     },
     {
-      "name": "ASHLEY ANN BENNY",
-      "instaId": "ashleyannbenny",
-      "link": "./images/Single/CSA/ASHLEY%20ANN%20BENNY.jpg"
+      name: "ASHLEY ANN BENNY",
+      instaId: "ashleyannbenny",
+      link: "./images/Single/CSA/ASHLEY%20ANN%20BENNY.jpg",
     },
     {
-      "name": "ASHNA K",
-      "instaId": "ashna_insta",
-      "link": "./images/Single/CSA/ASHNA%20K.jpg"
+      name: "ASHNA K",
+      instaId: "ashna_insta",
+      link: "./images/Single/CSA/ASHNA%20K.jpg",
     },
     {
-      "name": "ASWANTH P P",
-      "instaId": "asw_anth_12",
-      "link": "./images/Single/CSA/ASWANTH%20P%20P.jpg"
+      name: "ASWANTH P P",
+      instaId: "asw_anth_12",
+      link: "./images/Single/CSA/ASWANTH%20P%20P.jpg",
     },
     {
-      "name": "ASWATH NARAYANAN",
-      "instaId": "__aswath___",
-      "link": "./images/Single/CSA/ASWATH%20NARAYANAN.jpg"
+      name: "ASWATH NARAYANAN",
+      instaId: "__aswath___",
+      link: "./images/Single/CSA/ASWATH%20NARAYANAN.jpg",
     },
     {
-      "name": "AYANA THOMAS",
-      "instaId": "ayanathomas_",
-      "link": "./images/Single/CSA/AYANA%20THOMAS.jpg"
+      name: "AYANA THOMAS",
+      instaId: "ayanathomas_",
+      link: "./images/Single/CSA/AYANA%20THOMAS.jpg",
     },
     {
-      "name": "BENETTO GEORGE",
-      "instaId": "ben_george26",
-      "link": "./images/Single/CSA/BENETTO%20GEORGE.jpg"
+      name: "BENETTO GEORGE",
+      instaId: "ben_george26",
+      link: "./images/Single/CSA/BENETTO%20GEORGE.jpg",
     },
     {
-      "name": "BENITA GRACE JACOB",
-      "instaId": "xo_db_grace",
-      "link": "./images/Single/CSA/BENITA%20GRACE%20JACOB.jpg"
+      name: "BENITA GRACE JACOB",
+      instaId: "xo_db_grace",
+      link: "./images/Single/CSA/BENITA%20GRACE%20JACOB.jpg",
     },
     {
-      "name": "CHRISTY OOMMEN VARGHESE",
-      "instaId": "christyoommenvarghese",
-      "link": "./images/Single/CSA/CHRISTY%20OOMMEN%20VARGHESE.jpg"
+      name: "CHRISTY OOMMEN VARGHESE",
+      instaId: "christyoommenvarghese",
+      link: "./images/Single/CSA/CHRISTY%20OOMMEN%20VARGHESE.jpg",
     },
     {
-      "name": "DEEPIN K SUNNY",
-      "instaId": "d_e_e_p_i_n",
-      "link": "./images/Single/CSA/DEEPIN%20K%20SUNNY.jpg"
+      name: "DEEPIN K SUNNY",
+      instaId: "d_e_e_p_i_n",
+      link: "./images/Single/CSA/DEEPIN%20K%20SUNNY.jpg",
     },
     {
-      "name": "DENIO SHAJI JOHN",
-      "instaId": "deniosj",
-      "link": "./images/Single/CSA/DENIO%20SHAJI%20JOHN.jpg"
+      name: "DENIO SHAJI JOHN",
+      instaId: "deniosj",
+      link: "./images/Single/CSA/DENIO%20SHAJI%20JOHN.jpg",
     },
     {
-      "name": "DENNIS BABU",
-      "instaId": "_denni5",
-      "link": "./images/Single/CSA/DENNIS%20BABU.jpg"
+      name: "DENNIS BABU",
+      instaId: "_denni5",
+      link: "./images/Single/CSA/DENNIS%20BABU.jpg",
     },
     {
-      "name": "DIAZ JOHNSON",
-      "instaId": "",
-      "link": "./images/Single/CSA/DIAZ%20JOHNSON.jpg"
+      name: "DIAZ JOHNSON",
+      instaId: "",
+      link: "./images/Single/CSA/DIAZ%20JOHNSON.jpg",
     },
     {
-      "name": "DIVYA RAJAN",
-      "instaId": "rdivya302",
-      "link": "./images/Single/CSA/DIVYA%20RAJAN.jpg"
+      name: "DIVYA RAJAN",
+      instaId: "rdivya302",
+      link: "./images/Single/CSA/DIVYA%20RAJAN.jpg",
     },
     {
-      "name": "EMILY MARIA THOMAS",
-      "instaId": "smile_of_ylime",
-      "link": "./images/Single/CSA/EMILY%20MARIA%20THOMAS.jpg"
+      name: "EMILY MARIA THOMAS",
+      instaId: "smile_of_ylime",
+      link: "./images/Single/CSA/EMILY%20MARIA%20THOMAS.jpg",
     },
     {
-      "name": "FARHA LIYAKATH",
-      "instaId": "farah_liya__",
-      "link": "./images/Single/CSA/FARHA%20LIYAKATH.jpg"
+      name: "FARHA LIYAKATH",
+      instaId: "farah_liya__",
+      link: "./images/Single/CSA/FARHA%20LIYAKATH.jpg",
     },
     {
-      "name": "FATHIMA SHEFEEK",
-      "instaId": "fathima___shefeek",
-      "link": "./images/Single/CSA/FATHIMA%20SHEFEEK.jpg"
+      name: "FATHIMA SHEFEEK",
+      instaId: "fathima___shefeek",
+      link: "./images/Single/CSA/FATHIMA%20SHEFEEK.jpg",
     },
     {
-      "name": "GRACE SARA KURIAN",
-      "instaId": "grace_sara_kurian",
-      "link": "./images/Single/CSA/GRACE%20SARA%20KURIAN.jpg"
+      name: "GRACE SARA KURIAN",
+      instaId: "grace_sara_kurian",
+      link: "./images/Single/CSA/GRACE%20SARA%20KURIAN.jpg",
     },
     {
-      "name": "HARI KRISHNAN A",
-      "instaId": "iharikrishnan_a",
-      "link": "./images/Single/CSA/HARI%20KRISHNAN%20A.jpg"
+      name: "HARI KRISHNAN A",
+      instaId: "iharikrishnan_a",
+      link: "./images/Single/CSA/HARI%20KRISHNAN%20A.jpg",
     },
     {
-      "name": "HASNA HANEEF",
-      "instaId": "hasna.haneef_",
-      "link": "./images/Single/CSA/HASNA%20HANEEF.jpg"
+      name: "HASNA HANEEF",
+      instaId: "hasna.haneef_",
+      link: "./images/Single/CSA/HASNA%20HANEEF.jpg",
     },
     {
-      "name": "IVY ROSE SEBAN",
-      "instaId": "ivyroseseban",
-      "link": "./images/Single/CSA/IVY%20ROSE%20SEBAN.jpg"
+      name: "IVY ROSE SEBAN",
+      instaId: "ivyroseseban",
+      link: "./images/Single/CSA/IVY%20ROSE%20SEBAN.jpg",
     },
     {
-      "name": "JAMES GEORGE",
-      "instaId": "james_madhacks",
-      "link": "./images/Single/CSA/JAMES%20GEORGE.jpg"
+      name: "JAMES GEORGE",
+      instaId: "james_madhacks",
+      link: "./images/Single/CSA/JAMES%20GEORGE.jpg",
     },
     {
-      "name": "JAMES KAVIYIL JOSE",
-      "instaId": "jamesjose03",
-      "link": "./images/Single/CSA/JAMES%20KAVIYIL%20JOSE.jpg"
+      name: "JAMES KAVIYIL JOSE",
+      instaId: "jamesjose03",
+      link: "./images/Single/CSA/JAMES%20KAVIYIL%20JOSE.jpg",
     },
     {
-      "name": "JAYALAKSHMI C P",
-      "instaId": "jayalakshmi_cp",
-      "link": "./images/Single/CSA/JAYALAKSHMI%20C%20P.jpg"
+      name: "JAYALAKSHMI C P",
+      instaId: "jayalakshmi_cp",
+      link: "./images/Single/CSA/JAYALAKSHMI%20C%20P.jpg",
     },
     {
-      "name": "JESWIN JOY",
-      "instaId": "jeswin_jz",
-      "link": "./images/Single/CSA/JESWIN%20JOY.jpg"
+      name: "JESWIN JOY",
+      instaId: "jeswin_jz",
+      link: "./images/Single/CSA/JESWIN%20JOY.jpg",
     },
     {
-      "name": "JEWEL P JOSE",
-      "instaId": "__.jpj",
-      "link": "./images/Single/CSA/JEWEL%20P%20JOSE.jpg"
+      name: "JEWEL P JOSE",
+      instaId: "__.jpj",
+      link: "./images/Single/CSA/JEWEL%20P%20JOSE.jpg",
     },
     {
-      "name": "ROHITH RAJENDRAN",
-      "instaId": "",
-      "link": "./images/Single/CSA/ROHITH%20RAJENDRAN.jpg"
+      name: "ROHITH RAJENDRAN",
+      instaId: "",
+      link: "./images/Single/CSA/ROHITH%20RAJENDRAN.jpg",
     },
     {
-      "name": ""
-    }
+      name: "",
+    },
   ];
 
   let cdb = [
     {
-      "name": "AKSHAY BABU S",
-      "instaId": "",
-      "link": "./images/Single/CSB/AKSHAY%20BABU%20S.jpg",
-      "": ""
+      name: "AKSHAY BABU S",
+      instaId: "",
+      link: "./images/Single/CSB/AKSHAY%20BABU%20S.jpg",
+      "": "",
     },
     {
-      "name": "JIBYMOL JOSEPH",
-      "instaId": "jibymol_joseph",
-      "link": "./images/Single/CSB/JIBYMOL%20JOSEPH.jpg",
-      "": ""
+      name: "JIBYMOL JOSEPH",
+      instaId: "jibymol_joseph",
+      link: "./images/Single/CSB/JIBYMOL%20JOSEPH.jpg",
+      "": "",
     },
     {
-      "name": "JOBIN P JOSE",
-      "instaId": "_jobin_p_jose",
-      "link": "./images/Single/CSB/JOBIN%20P%20JOSE.jpg",
-      "": ""
+      name: "JOBIN P JOSE",
+      instaId: "_jobin_p_jose",
+      link: "./images/Single/CSB/JOBIN%20P%20JOSE.jpg",
+      "": "",
     },
     {
-      "name": "JOBLIN K JAMES",
-      "instaId": "i_am_jobzz",
-      "link": "./images/Single/CSB/JOBLIN%20K%20JAMES.jpg",
-      "": ""
+      name: "JOBLIN K JAMES",
+      instaId: "i_am_jobzz",
+      link: "./images/Single/CSB/JOBLIN%20K%20JAMES.jpg",
+      "": "",
     },
     {
-      "name": "JOEL MATHEW GEORGE",
-      "instaId": "joel_jmg_",
-      "link": "./images/Single/CSB/JOEL%20MATHEW%20GEORGE.jpg",
-      "": ""
+      name: "JOEL MATHEW GEORGE",
+      instaId: "joel_jmg_",
+      link: "./images/Single/CSB/JOEL%20MATHEW%20GEORGE.jpg",
+      "": "",
     },
     {
-      "name": "JOEL PHILIP MATHEW",
-      "instaId": "joey_philip10",
-      "link": "./images/Single/CSB/JOEL%20PHILIP%20MATHEW.jpg",
-      "": ""
+      name: "JOEL PHILIP MATHEW",
+      instaId: "joey_philip10",
+      link: "./images/Single/CSB/JOEL%20PHILIP%20MATHEW.jpg",
+      "": "",
     },
     {
-      "name": "JOHNY XAVIER FERNANDEZ",
-      "instaId": "johny__xavier",
-      "link": "./images/Single/CSB/JOHNY%20XAVIER%20FERNANDEZ.jpg",
-      "": ""
+      name: "JOHNY XAVIER FERNANDEZ",
+      instaId: "johny__xavier",
+      link: "./images/Single/CSB/JOHNY%20XAVIER%20FERNANDEZ.jpg",
+      "": "",
     },
     {
-      "name": "JOSHMA JOBY",
-      "instaId": "emmie_jo_16",
-      "link": "./images/Single/CSB/JOSHMA%20JOBY.jpg",
-      "": ""
+      name: "JOSHMA JOBY",
+      instaId: "emmie_jo_16",
+      link: "./images/Single/CSB/JOSHMA%20JOBY.jpg",
+      "": "",
     },
     {
-      "name": "JOSHUA JACOB CHACKO",
-      "instaId": "jc_jacobz",
-      "link": "./images/Single/CSB/JOSHUA%20JACOB%20CHACKO.jpg",
-      "": ""
+      name: "JOSHUA JACOB CHACKO",
+      instaId: "jc_jacobz",
+      link: "./images/Single/CSB/JOSHUA%20JACOB%20CHACKO.jpg",
+      "": "",
     },
     {
-      "name": "KAITHARAN ARPITH JOLLY",
-      "instaId": "_a___r___j_",
-      "link": "./images/Single/CSB/KAITHARAN%20ARPITH%20JOLLY.jpg",
-      "": ""
+      name: "KAITHARAN ARPITH JOLLY",
+      instaId: "_a___r___j_",
+      link: "./images/Single/CSB/KAITHARAN%20ARPITH%20JOLLY.jpg",
+      "": "",
     },
     {
-      "name": "KIRAN SAYI",
-      "instaId": "kiran_sayi",
-      "link": "./images/Single/CSB/KIRAN%20SAYI.jpg",
-      "": ""
+      name: "KIRAN SAYI",
+      instaId: "kiran_sayi",
+      link: "./images/Single/CSB/KIRAN%20SAYI.jpg",
+      "": "",
     },
     {
-      "name": "KRISHNAJITH MOHAN",
-      "instaId": "krishnajith__",
-      "link": "./images/Single/CSB/KRISHNAJITH%20MOHAN.jpg",
-      "": ""
+      name: "KRISHNAJITH MOHAN",
+      instaId: "krishnajith__",
+      link: "./images/Single/CSB/KRISHNAJITH%20MOHAN.jpg",
+      "": "",
     },
     {
-      "name": "LAKSHMI JAYAKUMAR",
-      "instaId": "lakshmi_jayakumar_",
-      "link": "./images/Single/CSB/LAKSHMI%20JAYAKUMAR.jpg",
-      "": ""
+      name: "LAKSHMI JAYAKUMAR",
+      instaId: "lakshmi_jayakumar_",
+      link: "./images/Single/CSB/LAKSHMI%20JAYAKUMAR.jpg",
+      "": "",
     },
     {
-      "name": "LENA ALPHONSA SAJI",
-      "instaId": "lena_alphonsa",
-      "link": "./images/Single/CSB/LENA%20ALPHONSA%20SAJI.jpg",
-      "": ""
+      name: "LENA ALPHONSA SAJI",
+      instaId: "lena_alphonsa",
+      link: "./images/Single/CSB/LENA%20ALPHONSA%20SAJI.jpg",
+      "": "",
     },
     {
-      "name": "LEOYON REJI",
-      "instaId": "_leo_yon_",
-      "link": "./images/Single/CSB/LEOYON%20REJI.jpg",
-      "": ""
+      name: "LEOYON REJI",
+      instaId: "_leo_yon_",
+      link: "./images/Single/CSB/LEOYON%20REJI.jpg",
+      "": "",
     },
     {
-      "name": "LINU MATHEW",
-      "instaId": "linu_kvm",
-      "link": "./images/Single/CSB/LINU%20MATHEW.jpg"
+      name: "LINU MATHEW",
+      instaId: "linu_kvm",
+      link: "./images/Single/CSB/LINU%20MATHEW.jpg",
     },
     {
-      "name": "MARTIN JOHNY",
-      "instaId": "martinjohny_167",
-      "link": "./images/Single/CSB/MARTIN%20JOHNY.jpg"
+      name: "MARTIN JOHNY",
+      instaId: "martinjohny_167",
+      link: "./images/Single/CSB/MARTIN%20JOHNY.jpg",
     },
     {
-      "name": "MEGHA RAJEEV PILLAI",
-      "instaId": "megha_rjv",
-      "link": "./images/Single/CSB/MEGHA%20RAJEEV%20PILLAI.jpg"
+      name: "MEGHA RAJEEV PILLAI",
+      instaId: "megha_rjv",
+      link: "./images/Single/CSB/MEGHA%20RAJEEV%20PILLAI.jpg",
     },
     {
-      "name": "MERIN SHAJI",
-      "instaId": "dreamy_one",
-      "link": "./images/Single/CSB/MERIN%20SHAJI.jpg"
+      name: "MERIN SHAJI",
+      instaId: "dreamy_one",
+      link: "./images/Single/CSB/MERIN%20SHAJI.jpg",
     },
     {
-      "name": "MERLIN SEBASTIAN",
-      "instaId": "",
-      "link": "./images/Single/CSB/MERLIN%20SEBASTIAN.jpg"
+      name: "MERLIN SEBASTIAN",
+      instaId: "",
+      link: "./images/Single/CSB/MERLIN%20SEBASTIAN.jpg",
     },
     {
-      "name": "MIDHLAJ AHAMMED T K",
-      "instaId": "",
-      "link": "./images/Single/CSB/MIDHLAJ%20AHAMMED%20T%20K.jpg"
+      name: "MIDHLAJ AHAMMED T K",
+      instaId: "",
+      link: "./images/Single/CSB/MIDHLAJ%20AHAMMED%20T%20K.jpg",
     },
     {
-      "name": "NANDITA SURESH",
-      "instaId": "nanditaa_suresh",
-      "link": "./images/Single/CSB/NANDITA%20SURESH.jpg"
+      name: "NANDITA SURESH",
+      instaId: "nanditaa_suresh",
+      link: "./images/Single/CSB/NANDITA%20SURESH.jpg",
     },
     {
-      "name": "NEETHU MARIA MATHEW",
-      "instaId": "prfctly_imprft",
-      "link": "./images/Single/CSB/NEETHU%20MARIA%20MATHEW.jpg"
+      name: "NEETHU MARIA MATHEW",
+      instaId: "prfctly_imprft",
+      link: "./images/Single/CSB/NEETHU%20MARIA%20MATHEW.jpg",
     },
     {
-      "name": "NIKITA PREM",
-      "instaId": "nikitaprem_",
-      "link": "./images/Single/CSB/NIKITA%20PREM.jpg"
+      name: "NIKITA PREM",
+      instaId: "nikitaprem_",
+      link: "./images/Single/CSB/NIKITA%20PREM.jpg",
     },
     {
-      "name": "NITHIN R PILLAI",
-      "instaId": "nithin_r_pillai",
-      "link": "./images/Single/CSB/NITHIN%20R%20PILLAI.jpg"
+      name: "NITHIN R PILLAI",
+      instaId: "nithin_r_pillai",
+      link: "./images/Single/CSB/NITHIN%20R%20PILLAI.jpg",
     },
     {
-      "name": "NOEL MATHEW VARGHESE VAIDYAN",
-      "instaId": "noel_vaidyan",
-      "link": "./images/Single/CSB/NOEL%20MATHEW%20VARGHESE%20VAIDYAN.jpg"
+      name: "NOEL MATHEW VARGHESE VAIDYAN",
+      instaId: "noel_vaidyan",
+      link: "./images/Single/CSB/NOEL%20MATHEW%20VARGHESE%20VAIDYAN.jpg",
     },
     {
-      "name": "P A ABHISHEK",
-      "instaId": "",
-      "link": "./images/Single/CSB/P%20A%20ABHISHEK.jpg"
+      name: "P A ABHISHEK",
+      instaId: "",
+      link: "./images/Single/CSB/P%20A%20ABHISHEK.jpg",
     },
     {
-      "name": "PANACHICKAL GEORGE SAVIO",
-      "instaId": "codename_snake",
-      "link": "./images/Single/CSB/PANACHICKAL%20GEORGE%20SAVIO.jpg"
+      name: "PANACHICKAL GEORGE SAVIO",
+      instaId: "codename_snake",
+      link: "./images/Single/CSB/PANACHICKAL%20GEORGE%20SAVIO.jpg",
     },
     {
-      "name": "PRIYA JOSE",
-      "instaId": "priya__jose",
-      "link": "./images/Single/CSB/PRIYA%20JOSE.jpg"
+      name: "PRIYA JOSE",
+      instaId: "priya__jose",
+      link: "./images/Single/CSB/PRIYA%20JOSE.jpg",
     },
     {
-      "name": "REX JOVAKIM JOSEPH",
-      "instaId": "rex_jovakim_joseph",
-      "link": "./images/Single/CSB/REX%20JOVAKIM%20JOSEPH.jpg"
+      name: "REX JOVAKIM JOSEPH",
+      instaId: "rex_jovakim_joseph",
+      link: "./images/Single/CSB/REX%20JOVAKIM%20JOSEPH.jpg",
     },
     {
-      "name": "RICHU MATHEWS GEROGE",
-      "instaId": "richu.mathews",
-      "link": "./images/Single/CSB/RICHU%20MATHEWS%20GEROGE.jpg"
+      name: "RICHU MATHEWS GEROGE",
+      instaId: "richu.mathews",
+      link: "./images/Single/CSB/RICHU%20MATHEWS%20GEROGE.jpg",
     },
     {
-      "name": "RITY ABRAHAM JACOB",
-      "instaId": "rity_fx",
-      "link": "./images/Single/CSB/RITY%20ABRAHAM%20JACOB.jpg"
+      name: "RITY ABRAHAM JACOB",
+      instaId: "rity_fx",
+      link: "./images/Single/CSB/RITY%20ABRAHAM%20JACOB.jpg",
     },
     {
-      "name": "ROBIN JOSE RAJU",
-      "instaId": "_rjr10_",
-      "link": "./images/Single/CSB/ROBIN%20JOSE%20RAJU.jpg"
+      name: "ROBIN JOSE RAJU",
+      instaId: "_rjr10_",
+      link: "./images/Single/CSB/ROBIN%20JOSE%20RAJU.jpg",
     },
     {
-      "name": "ROHITH R",
-      "instaId": "rr_273",
-      "link": "./images/Single/CSB/ROHITH%20R.jpg"
+      name: "ROHITH R",
+      instaId: "rr_273",
+      link: "./images/Single/CSB/ROHITH%20R.jpg",
     },
     {
-      "name": "ROSE FRANCIS",
-      "instaId": "",
-      "link": "./images/Single/CSB/ROSE%20FRANCIS.jpg"
+      name: "ROSE FRANCIS",
+      instaId: "",
+      link: "./images/Single/CSB/ROSE%20FRANCIS.jpg",
     },
     {
-      "name": "ROSHAN JOB",
-      "instaId": "theroshanjob",
-      "link": "./images/Single/CSB/ROSHAN%20JOB.jpg"
+      name: "ROSHAN JOB",
+      instaId: "theroshanjob",
+      link: "./images/Single/CSB/ROSHAN%20JOB.jpg",
     },
     {
-      "name": "ROSMIN AUGUSTINE",
-      "instaId": "rosminaugustine",
-      "link": "./images/Single/CSB/ROSMIN%20AUGUSTINE.jpg"
+      name: "ROSMIN AUGUSTINE",
+      instaId: "rosminaugustine",
+      link: "./images/Single/CSB/ROSMIN%20AUGUSTINE.jpg",
     },
     {
-      "name": "RUBEL THOMAS BINU",
-      "instaId": "rubel_tom",
-      "link": "./images/Single/CSB/RUBEL%20THOMAS%20BINU.jpg"
+      name: "RUBEL THOMAS BINU",
+      instaId: "rubel_tom",
+      link: "./images/Single/CSB/RUBEL%20THOMAS%20BINU.jpg",
     },
     {
-      "name": "S SREYAS",
-      "instaId": "",
-      "link": "./images/Single/CSB/S%20SREYAS.jpg"
+      name: "S SREYAS",
+      instaId: "",
+      link: "./images/Single/CSB/S%20SREYAS.jpg",
     },
     {
-      "name": "SACHIN JOSEPH",
-      "instaId": "sachin_joseph_v27",
-      "link": "./images/Single/CSB/SACHIN%20JOSEPH.jpg"
+      name: "SACHIN JOSEPH",
+      instaId: "sachin_joseph_v27",
+      link: "./images/Single/CSB/SACHIN%20JOSEPH.jpg",
     },
     {
-      "name": "SAIRA SALIM",
-      "instaId": "thisissaira",
-      "link": "./images/Single/CSB/SAIRA%20SALIM.jpg"
+      name: "SAIRA SALIM",
+      instaId: "thisissaira",
+      link: "./images/Single/CSB/SAIRA%20SALIM.jpg",
     },
     {
-      "name": "SAJIN SHAJI",
-      "instaId": "the_mystical_beast",
-      "link": "./images/Single/CSB/SAJIN%20SHAJI.jpg"
+      name: "SAJIN SHAJI",
+      instaId: "the_mystical_beast",
+      link: "./images/Single/CSB/SAJIN%20SHAJI.jpg",
     },
     {
-      "name": "SANDRA JOHNY",
-      "instaId": "tae_tae_girl__",
-      "link": "./images/Single/CSB/SANDRA%20JOHNY.jpg"
+      name: "SANDRA JOHNY",
+      instaId: "tae_tae_girl__",
+      link: "./images/Single/CSB/SANDRA%20JOHNY.jpg",
     },
     {
-      "name": "SANDRA MARIAM BINU",
-      "instaId": "sandramariambinu",
-      "link": "./images/Single/CSB/SANDRA%20MARIAM%20BINU.jpg"
+      name: "SANDRA MARIAM BINU",
+      instaId: "sandramariambinu",
+      link: "./images/Single/CSB/SANDRA%20MARIAM%20BINU.jpg",
     },
     {
-      "name": "SANDRA MERIN THOMAS",
-      "instaId": "sandra_merin_thomas",
-      "link": "./images/Single/CSB/SANDRA%20MERIN%20THOMAS.jpg"
+      name: "SANDRA MERIN THOMAS",
+      instaId: "sandra_merin_thomas",
+      link: "./images/Single/CSB/SANDRA%20MERIN%20THOMAS.jpg",
     },
     {
-      "name": "SANIKA JOSEPH",
-      "instaId": "",
-      "link": "./images/Single/CSB/SANIKA%20JOSEPH.jpg"
+      name: "SANIKA JOSEPH",
+      instaId: "",
+      link: "./images/Single/CSB/SANIKA%20JOSEPH.jpg",
     },
     {
-      "name": "SARAVAN",
-      "instaId": "saravan_srv",
-      "link": "./images/Single/CSB/SARAVAN.jpg"
+      name: "SARAVAN",
+      instaId: "saravan_srv",
+      link: "./images/Single/CSB/SARAVAN.jpg",
     },
     {
-      "name": "SEPHY SHIBU MATHEW",
-      "instaId": "sephy_shibu",
-      "link": "./images/Single/CSB/SEPHY%20SHIBU%20MATHEW.jpg"
+      name: "SEPHY SHIBU MATHEW",
+      instaId: "sephy_shibu",
+      link: "./images/Single/CSB/SEPHY%20SHIBU%20MATHEW.jpg",
     },
     {
-      "name": "SERENE ANNA GIJI",
-      "instaId": "_.serene.anna._",
-      "link": "./images/Single/CSB/SERENE%20ANNA%20GIJI.jpg"
+      name: "SERENE ANNA GIJI",
+      instaId: "_.serene.anna._",
+      link: "./images/Single/CSB/SERENE%20ANNA%20GIJI.jpg",
     },
     {
-      "name": "SHAHAD CK",
-      "instaId": "shahad.shd_",
-      "link": "./images/Single/CSB/SHAHAD%20CK.jpg"
+      name: "SHAHAD CK",
+      instaId: "shahad.shd_",
+      link: "./images/Single/CSB/SHAHAD%20CK.jpg",
     },
     {
-      "name": "SHALEN SOPHIA JACOB",
-      "instaId": "shalen_jacob",
-      "link": "./images/Single/CSB/SHALEN%20SOPHIA%20JACOB.jpg"
+      name: "SHALEN SOPHIA JACOB",
+      instaId: "shalen_jacob",
+      link: "./images/Single/CSB/SHALEN%20SOPHIA%20JACOB.jpg",
     },
     {
-      "name": "SHEJIN THOMAS",
-      "instaId": "_.shejin_.thomas",
-      "link": "./images/Single/CSB/SHEJIN%20THOMAS.jpg"
+      name: "SHEJIN THOMAS",
+      instaId: "_.shejin_.thomas",
+      link: "./images/Single/CSB/SHEJIN%20THOMAS.jpg",
     },
     {
-      "name": "SHILPA SANTOSH",
-      "instaId": "shilpasantosh34",
-      "link": "./images/Single/CSB/SHILPA%20SANTOSH.jpg"
+      name: "SHILPA SANTOSH",
+      instaId: "shilpasantosh34",
+      link: "./images/Single/CSB/SHILPA%20SANTOSH.jpg",
     },
     {
-      "name": "SHINO SAM",
-      "instaId": "aloo_tikki26",
-      "link": "./images/Single/CSB/SHINO%20SAM.jpg"
+      name: "SHINO SAM",
+      instaId: "aloo_tikki26",
+      link: "./images/Single/CSB/SHINO%20SAM.jpg",
     },
     {
-      "name": "SHOJ S PANACKAL",
-      "instaId": "",
-      "link": "./images/Single/CSB/SHOJ%20S%20PANACKAL.jpg"
+      name: "SHOJ S PANACKAL",
+      instaId: "",
+      link: "./images/Single/CSB/SHOJ%20S%20PANACKAL.jpg",
     },
     {
-      "name": "SRAVAN T SHAJAN",
-      "instaId": "",
-      "link": "./images/Single/CSB/SRAVAN%20T%20SHAJAN.jpg"
+      name: "SRAVAN T SHAJAN",
+      instaId: "",
+      link: "./images/Single/CSB/SRAVAN%20T%20SHAJAN.jpg",
     },
     {
-      "name": "STEPHANO JOSE",
-      "instaId": "",
-      "link": "./images/Single/CSB/STEPHANO%20JOSE.jpg"
+      name: "STEPHANO JOSE",
+      instaId: "",
+      link: "./images/Single/CSB/STEPHANO%20JOSE.jpg",
     },
     {
-      "name": "STEPHY GEORGE",
-      "instaId": "stephz_g",
-      "link": "./images/Single/CSB/STEPHY%20GEORGE.jpg"
+      name: "STEPHY GEORGE",
+      instaId: "stephz_g",
+      link: "./images/Single/CSB/STEPHY%20GEORGE.jpg",
     },
     {
-      "name": "T.SOPHIA VARGHEESE",
-      "instaId": "sophi_vargheese",
-      "link": "./images/Single/CSB/T.SOPHIA%20VARGHEESE.jpg"
+      name: "T.SOPHIA VARGHEESE",
+      instaId: "sophi_vargheese",
+      link: "./images/Single/CSB/T.SOPHIA%20VARGHEESE.jpg",
     },
     {
-      "name": "THOTTUVELIL TISSY ISON",
-      "instaId": "tiss_sy",
-      "link": "./images/Single/CSB/THOTTUVELIL%20TISSY%20ISON.jpg"
+      name: "THOTTUVELIL TISSY ISON",
+      instaId: "tiss_sy",
+      link: "./images/Single/CSB/THOTTUVELIL%20TISSY%20ISON.jpg",
     },
     {
-      "name": "TIFFANY MARY THOMAS",
-      "instaId": "",
-      "link": "./images/Single/CSB/TIFFANY%20MARY%20THOMAS.jpg"
+      name: "TIFFANY MARY THOMAS",
+      instaId: "",
+      link: "./images/Single/CSB/TIFFANY%20MARY%20THOMAS.jpg",
     },
     {
-      "name": "TIYA CHACKO",
-      "instaId": "tiya_chacko",
-      "link": "./images/Single/CSB/TIYA%20CHACKO.jpg"
+      name: "TIYA CHACKO",
+      instaId: "tiya_chacko",
+      link: "./images/Single/CSB/TIYA%20CHACKO.jpg",
     },
     {
-      "name": "YEDUKRISHNAN H",
-      "instaId": "yedukrishnan.h",
-      "link": "./images/Single/CSB/YEDUKRISHNAN%20H.jpg"
+      name: "YEDUKRISHNAN H",
+      instaId: "yedukrishnan.h",
+      link: "./images/Single/CSB/YEDUKRISHNAN%20H.jpg",
     },
     {
-      "name": ""
-    }
+      name: "",
+    },
   ];
 
   image.forEach((img) => {
@@ -2419,15 +2419,17 @@ $(document).ready(function () {
 
   csa.forEach((details) => {
     $(".csa").append(`
-      <div class="card pl-5 pt-4" style="width: 18rem">
-              <img class="img-fluid" src="${details.link}" alt="..." />
-              <div class="card-body">
-                <div style="display: flex; justify-content: space-between">
-                  <h5 class="card-title" style="color: white">${details.name}</h5>
-                 <a href="https://www.instagram.com/${details.instaId}" ><i class="bi bi-instagram" style="color: rgb(255, 0, 0)"></i></a>
-                </div>
-              </div>
-            </div>
+    <div class="col-lg-4">
+    <div class="container">
+      <div class="profile-card-2"><img
+      width="100%"
+          src= ${details.link}
+          class="img img-responsive">
+        <div class="profile-name">${details.name}</div>
+        <div class="profile-icons"><a href="#"><i class="text-white bi bi-instagram"></i></a></div>
+      </div>
+    </div>
+  </div>
       `);
   });
 });
