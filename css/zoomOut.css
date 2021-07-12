@@ -1,5 +1,6 @@
 .font-class {
   font-family: "Gabriel Weiss' Friends Font";
+   
 }
 
 .my-name {
@@ -7,7 +8,7 @@
   position: relative;
   margin-top: 250px;
   color: rgb(255, 255, 255);
-  font-size: 150px;
+ font-size: 150px;
   letter-spacing: -10px;
 }
 
@@ -83,3 +84,52 @@
     margin-top: 10px;
   }
 }
+
+
+@media screen and  (max-width:480px){
+
+    .my-name{
+        font-size: 110px;
+        
+    }
+    
+    .domain{
+        font-size: 20px;
+        margin-top: -110px;
+    }
+    
+    }
+
+
+    @media screen and (min-width:481px) and  (max-width:768px){
+    
+        .my-name{
+            font-size: 150px;
+            
+        }
+        
+        .domain{
+            font-size: 30px;
+            margin-top: -110px;
+        }
+        
+        
+        }
+    
+
+             
+    @media screen and (min-width:768px) and  (max-width:868px){
+    
+        .my-name{
+            font-size: 190px;
+            
+        }
+        
+        .domain{
+            font-size: 30px;
+            margin-top: -150px;
+        } 
+        
+        }
+
+    
