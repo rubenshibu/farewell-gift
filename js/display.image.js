@@ -40,10 +40,6 @@ $(document).ready(function () {
       delay: 400,
     },
     {
-      imgId: "143jhKE4Khb8CWV-_z9Wtt0v9cAXEUwNQ",
-      delay: 100,
-    },
-    {
       imgId: "14BL2Nyppt84Opn5Q3IEIEGhN8G2Uj8eA",
       delay: 200,
     },
