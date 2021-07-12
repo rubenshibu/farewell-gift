@@ -1722,6 +1722,33 @@ $(document).ready(function () {
     },
   ];
 
+  let allStudents = [
+    {
+      imgId: "1s1m4INRQ6tgdCa7BpIzZTkPpJ2QxZuy3",
+      name: "Tonal",
+      instaId: "",
+      delay: 100,
+    },
+    {
+      imgId: "",
+      name: "",
+      instaId: "",
+      delay: 200,
+    },
+    {
+      imgId: "",
+      name: "",
+      instaId: "",
+      delay: 300,
+    },
+    {
+      imgId: "",
+      name: "",
+      instaId: "",
+      delay: 400,
+    },
+  ];
+
   image.forEach((img) => {
     $(".images")
       .append(`<div class="col-6 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="${img.delay}">
@@ -1816,5 +1843,19 @@ $(document).ready(function () {
                   </div>
                 </a>
               </div>`);
+  });
+
+  allStudents.forEach((details) => {
+    $(".all-students").append(`
+      <div class="card pl-5 pt-4" style="width: 18rem">
+              <img class="img-fluid" src="https://drive.google.com/thumbnail?id=${details.imgId}" alt="..." />
+              <div class="card-body">
+                <div style="display: flex; justify-content: space-between">
+                  <h5 class="card-title" style="color: white">${details.name}</h5>
+                 <a href="https://www.instagram.com/${details.instaId}" ><i class="bi bi-instagram" style="color: rgb(255, 0, 0)"></i></a>
+                </div>
+              </div>
+            </div>
+      `);
   });
 });
