@@ -2,14 +2,6 @@ $(document).ready(function () {
   // all images
 
   let image = [
-    // {
-    //   imgId: "17kRX24qPHvyuRXU9JXl_E2cmlm7TFGe0",
-    //   delay: 100,
-    // },
-    // {
-    //   imgId: "17s_qfne-qwen-R4LeId4K2kt37ltM-0K",
-    //   delay: 200,
-    // },
     {
       imgId: "1cxtBN412FSt7hEYFRHCLN1eW4INzqtMV",
       delay: 300,
@@ -26,10 +18,6 @@ $(document).ready(function () {
       imgId: "15N6z3rle2F2BdX265a7BAjj2TIVNO_4t",
       delay: 200,
     },
-    // {
-    //   imgId: "1mIQ2tYdFuEYfDnBCi3MYiGy6nEhU-aZL",
-    //   delay: 300,
-    // },
     {
       imgId: "1PFIoeKwNl5ZaAzM-OtthGUnQ08RLw-fm",
       delay: 400,
@@ -42,14 +30,14 @@ $(document).ready(function () {
     //   imgId: "1JBfJ9I1husjiv-vUZ8e_emH_nd_o1Nuh",
     //   delay: 200,
     // },
-    {
-      imgId: "1VatxjzfCHkCUzsdiXq8jOIahFzQVAVL7",
-      delay: 300,
-    },
-    {
-      imgId: "1fFPuQiqEHCENNgUSblzuPz7BLv5pDStW",
-      delay: 400,
-    },
+    // {
+    //   imgId: "1VatxjzfCHkCUzsdiXq8jOIahFzQVAVL7",
+    //   delay: 300,
+    // },
+    // {
+    //   imgId: "1fFPuQiqEHCENNgUSblzuPz7BLv5pDStW",
+    //   delay: 400,
+    // },
     {
       imgId: "151xXgkP3C52yk4QUFYIaZo_fkyPsIyOw",
       delay: 100,
