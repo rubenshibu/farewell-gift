@@ -1,0 +1,62 @@
+.font-class{
+  font-family: "Gabriel Weiss' Friends Font";
+}
+
+.my-name{
+    position: relative;
+    margin-top: 26px;
+    color: #FEE715FF;
+    font-size: 200px; 
+    letter-spacing: -10px;
+}
+
+.my-name-letter-1,
+ .my-name-letter-2,
+ .my-name-letter-3,
+ .my-name-letter-4,
+ .my-name-letter-5,
+ .my-name-letter-6,
+ .my-name-letter-7,
+ .my-name-letter-8{
+     
+    animation: name-display-animation 1s ease-in-out 1s forwards;
+    opacity: 0;
+}
+
+.my-name-letter-2{
+    animation-delay: 1.3s;
+    
+}
+.my-name-letter-3{
+    animation-delay: 1.4s;
+}
+.my-name-letter-4{
+    animation-delay: 1.5s;
+}
+.my-name-letter-5{
+    animation-delay: 1.6s;
+}
+.my-name-letter-6{
+    animation-delay: 1.7s;
+}
+.my-name-letter-7{
+    animation-delay: 1.8s;
+}
+.my-name-letter-8{
+    animation-delay: 1.9s;
+}
+@keyframes name-display-animation{
+
+    0%{
+        
+        opacity: 0;
+    }50%{
+        opacity: 1;
+        margin-top: -10px;
+    }
+    100%{
+        opacity: 1;
+        margin-top: 10px;
+        
+    }
+}
