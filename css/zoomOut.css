@@ -86,31 +86,65 @@
   }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (min-width: 340px) {
   .my-name {
-    font-size: 110px;
+    font-size: 10px !important;
+    margin-bottom: 60px;
   }
 
   .domain {
-    font-size: 20px;
+    font-size: 10px;
     margin-top: -110px;
+    margin-left: 0;
+    /* letter-spacing: 0px; */
   }
+
+  .my-name-letter-1,
+.my-name-letter-2,
+.my-name-letter-3,
+.my-name-letter-4,
+.my-name-letter-5,
+.my-name-letter-6,
+.my-name-letter-7,
+.my-name-letter-8 {
+  animation: name-display-animation 1s ease-in-out 1s forwards;
+  opacity: 0;
+  font-size: 20px;
+
+  letter-spacing: 5px;
+}
 }
 
-@media screen and (min-width: 410px) and (max-width: 480px) {
-  .my-name {
-    font-size: 50px;
-  }
+@media screen and (min-width: 412px) {
+  /* .my-name {
+    font-size: 10px !important;
+  } */
 
   .domain {
-    font-size: 20px;
+    font-size: 10px;
     margin-top: -110px;
+    margin-left: 0;
   }
+
+  .my-name-letter-1,
+.my-name-letter-2,
+.my-name-letter-3,
+.my-name-letter-4,
+.my-name-letter-5,
+.my-name-letter-6,
+.my-name-letter-7,
+.my-name-letter-8 {
+  animation: name-display-animation 1s ease-in-out 1s forwards;
+  opacity: 0;
+  font-size: 40px;
+
+  letter-spacing: 5px;
+}
 }
 
 @media screen and (min-width: 481px) and (max-width: 768px) {
   .my-name {
-    font-size: 150px;
+    font-size: 70px !important;
   }
 
   .domain {
@@ -119,7 +153,57 @@
   }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 769px) and (max-width: 1100px) {
+  .my-name {
+    font-size: 120px !important;
+  }
+
+  .domain {
+    font-size: 30px;
+    margin-top: -110px;
+  }
+  .my-name-letter-1,
+  .my-name-letter-2,
+  .my-name-letter-3,
+  .my-name-letter-4,
+  .my-name-letter-5,
+  .my-name-letter-6,
+  .my-name-letter-7,
+  .my-name-letter-8 {
+    animation: name-display-animation 1s ease-in-out 1s forwards;
+    opacity: 0;
+    font-size: 45px;
+  
+    letter-spacing: 5px;
+  }
+}
+
+@media screen and (min-width: 1101px){
+  .my-name {
+    font-size: 120px !important;
+  }
+
+  .domain {
+    font-size: 30px;
+    margin-top: -110px;
+  }
+  .my-name-letter-1,
+  .my-name-letter-2,
+  .my-name-letter-3,
+  .my-name-letter-4,
+  .my-name-letter-5,
+  .my-name-letter-6,
+  .my-name-letter-7,
+  .my-name-letter-8 {
+    animation: name-display-animation 1s ease-in-out 1s forwards;
+    opacity: 0;
+    font-size: 75px;
+  
+    letter-spacing: 5px;
+  }
+}
+
+/* @media screen and (min-width: 1200px) {
   .my-name {
     font-size: 121px;
   }
@@ -128,4 +212,4 @@
     font-size: 30px;
     margin-top: -100px;
   }
-}
+} */
