@@ -1,9 +1,11 @@
 .font-class {
   font-family: "Gabriel Weiss' Friends Font";
+  text-decoration: none;
 }
 
 .my-name {
-  margin-left: 220px;
+  /* margin-left: 220px; */
+  margin-bottom: 40px;
   position: relative;
   margin-top: 250px;
   color: rgb(255, 255, 255);
@@ -21,6 +23,7 @@
 .my-name-letter-8 {
   animation: name-display-animation 1s ease-in-out 1s forwards;
   opacity: 0;
+  font-size: 130px;
 }
 
 .my-name-letter-2 {
