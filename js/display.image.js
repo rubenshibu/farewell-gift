@@ -7,11 +7,11 @@ $(document).ready(function () {
       delay: 100,
     },
     {
-      imgId: "1JbgKEdEmeGUbvcB_sl_rI3x1AnY-hzey",
+      imgId: "1GwS467GdWPOSY5n7tZ9yPKJlRZlOnj50",
       delay: 200,
     },
     {
-      imgId: "1cxtBN412FSt7hEYFRHCLN1eW4INzqtMV",
+      imgId: "1a8feh8nYFswbEfRp3RU86fSSd7sizirN",
       delay: 300,
     },
     {
@@ -976,11 +976,11 @@ $(document).ready(function () {
       delay: 100,
     },
     {
-      imgId: "1GwS467GdWPOSY5n7tZ9yPKJlRZlOnj50",
+      imgId: "1JbgKEdEmeGUbvcB_sl_rI3x1AnY-hzey",
       delay: 200,
     },
     {
-      imgId: "1a8feh8nYFswbEfRp3RU86fSSd7sizirN",
+      imgId: "1cxtBN412FSt7hEYFRHCLN1eW4INzqtMV",
       delay: 300,
     },
     {
