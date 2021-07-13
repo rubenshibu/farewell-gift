@@ -3,6 +3,14 @@ $(document).ready(function () {
 
   let image = [
     {
+      imgId: "1XiJDcxop__31vnsE_b6mJLj_9_9hDEWN",
+      delay: 100,
+    },
+    {
+      imgId: "1JbgKEdEmeGUbvcB_sl_rI3x1AnY-hzey",
+      delay: 200,
+    },
+    {
       imgId: "1cxtBN412FSt7hEYFRHCLN1eW4INzqtMV",
       delay: 300,
     },
@@ -867,6 +875,122 @@ $(document).ready(function () {
       imgId: "1EHNa-c0TLLGrU90bikqRgptUIg38Dsr9",
       delay: 400,
     },
+    {
+      imgId: "1O1ii47Uu2mTDjcARodmVTWDesgDbD9UI",
+      delay: 100,
+    },
+    {
+      imgId: "1ybPhcEDoJj0odlaCagPQ9IGW7_jjkxBq",
+      delay: 200,
+    },
+    {
+      imgId: "1SVDuhF-lSzIOtrW45rUPEcuoWPdGk4Of",
+      delay: 300,
+    },
+    {
+      imgId: "1yHScvRGsY3wtClaS1UlFZGJkid8mhar8",
+      delay: 400,
+    },
+    {
+      imgId: "1N6x7p7cYuONdcinPbiSV6G72j-U9RTia",
+      delay: 100,
+    },
+    {
+      imgId: "1zUhDcJDfER2M5ZrnN-KMtd9Z4bGd8djn",
+      delay: 200,
+    },
+    {
+      imgId: "1PCcH1MCQzQ76XzvxbPFsV4Kl5f7-Rxvh",
+      delay: 300,
+    },
+    {
+      imgId: "1HRZqUrITstIhX29rFEJtrwJVR2psLWFY",
+      delay: 400,
+    },
+    {
+      imgId: "1RLYr5MFn6PRw_u56TQxKRf8EbDwgLJWO",
+      delay: 100,
+    },
+    {
+      imgId: "1WVj1pbCOcrG4hMrAADzQmtnGrLgEbSHk",
+      delay: 200,
+    },
+    {
+      imgId: "1blkUXth1cH4VBU2AZY-9919SKU-Z46b1",
+      delay: 300,
+    },
+    {
+      imgId: "1ZBqe_m9vbp1KuRgsS7d9on6uJ0QCoLhA",
+      delay: 400,
+    },
+    {
+      imgId: "1y2OUguie4NthZKiS6knvnxxfpHjN_Dgo",
+      delay: 100,
+    },
+    {
+      imgId: "1Nt7bYGWFB1ao_TuPEgSxeCy-plMP0JBr",
+      delay: 200,
+    },
+    {
+      imgId: "1pt9nupJRrGPWo0OBxoQsTrofFxHs_op8",
+      delay: 300,
+    },
+    {
+      imgId: "1MEJ1WV_gIpGU1oMturnLHOg1B2yEkzng",
+      delay: 400,
+    },
+    {
+      imgId: "19tcCu8CNP5HfRvL5ef2sRArZalys4ywj",
+      delay: 100,
+    },
+    {
+      imgId: "1pI7uJgwrPQWN3ahiV94biMOt774R-15r",
+      delay: 200,
+    },
+    {
+      imgId: "1WO5BxhtLs8zu-SR1C9WwHcqLhhFxrMbY",
+      delay: 300,
+    },
+    {
+      imgId: "1qqAzOY1rmj0v8fHH9QuRk55sUK9qDIOV",
+      delay: 400,
+    },
+    {
+      imgId: "1JUhzLgmaVtB13kFAz8M4Nb2Mt8LwOwbI",
+      delay: 100,
+    },
+    {
+      imgId: "1hkVb7PSp5_pv7pDCn2BcrNzARfJRQX4B",
+      delay: 200,
+    },
+    {
+      imgId: "1G2lbZeBjjnRFTiYEMKEnY1vg3LOLcTRn",
+      delay: 300,
+    },
+    {
+      imgId: "1eyhDvWDSoXsVcVD3N1cWxnzOpRdnr26Q",
+      delay: 400,
+    },
+    {
+      imgId: "1U_il-dU-61L17Gc7z4fqi9_BvuxlqYuB",
+      delay: 100,
+    },
+    {
+      imgId: "1GwS467GdWPOSY5n7tZ9yPKJlRZlOnj50",
+      delay: 200,
+    },
+    {
+      imgId: "1a8feh8nYFswbEfRp3RU86fSSd7sizirN",
+      delay: 300,
+    },
+    {
+      imgId: "1xKn0VBSoolMdnbjXFOgzxW_0Z4_IVyFW",
+      delay: 400,
+    },
+    {
+      imgId: "1ZcCZwWGx9kOOE_Oixfq5UR2vDOV5rMAB",
+      delay: 100,
+    }
   ];
 
   // first year
