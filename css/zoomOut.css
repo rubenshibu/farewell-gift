@@ -118,16 +118,16 @@
     
 
              
-    @media screen and (min-width:768px) and  (max-width:868px){
+    @media screen and (min-width:1200px){
     
         .my-name{
-            font-size: 190px;
+            font-size: 121px;
             
         }
         
         .domain{
             font-size: 30px;
-            margin-top: -150px;
+            margin-top: -100px;
         } 
         
         }
