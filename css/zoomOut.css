@@ -86,19 +86,35 @@
 }
 
 
-@media screen and  (max-width:480px){
 
-    .my-name{
-        font-size: 110px;
+
+  @media screen and  (max-width:480px){
+
+      .my-name{
+          font-size: 110px;
+          
+      }
+      
+      .domain{
+          font-size: 20px;
+          margin-top: -110px;
+      }
+      
+      }
+
+      @media screen and (min-width:410px) and  (max-width:480px){
+
+        .my-name{
+            font-size: 50px;
+            
+        }
         
-    }
-    
-    .domain{
-        font-size: 20px;
-        margin-top: -110px;
-    }
-    
-    }
+        .domain{
+            font-size: 20px;
+            margin-top: -110px;
+        }
+        
+        }
 
 
     @media screen and (min-width:481px) and  (max-width:768px){
