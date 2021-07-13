@@ -2541,7 +2541,7 @@ $(document).ready(function () {
 
   csa.forEach((details) => {
     $(".csa").append(`
-    <div class="col-lg-4">
+    <div class="col-md-6 col-lg-4">
     <div class="container">
       <div class="profile-card-2" data-aos="fade-up" data-aos-delay="${details.delay}"><img
       width="100%"
@@ -2558,7 +2558,7 @@ $(document).ready(function () {
 
   csb.forEach((details) => {
     $(".csb").append(`
-    <div class="col-lg-4">
+    <div class="col-md-6 col-lg-4">
     <div class="container" data-aos="fade-up" data-aos-delay="${details.delay}">
       <div class="profile-card-2"><img
       width="100%"
