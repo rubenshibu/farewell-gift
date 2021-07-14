@@ -1468,8 +1468,6 @@ var widgetsSlider = $.widget( "ui.slider", $.ui.mouse, {
 			aboveMin = Math.round( ( max - min ) / step ) * step;
 		max = aboveMin + min;
 		if ( max > this.options.max ) {
-
-			//If max is not divisible by step, rounding off may increase its value
 			max -= step;
 		}
 		this.max = parseFloat( max.toFixed( this._precision() ) );
