@@ -990,7 +990,7 @@ $(document).ready(function () {
     {
       imgId: "1ZcCZwWGx9kOOE_Oixfq5UR2vDOV5rMAB",
       delay: 100,
-    }
+    },
   ];
 
   // first year
@@ -2168,7 +2168,6 @@ $(document).ready(function () {
       link: "./images/Single/CSA/ROHITH%20RAJENDRAN.jpg",
       delay: 100,
     },
-    
   ];
 
   let csb = [
@@ -2571,142 +2570,142 @@ $(document).ready(function () {
     {
       "CS A": "AKASH SUNOJ",
       "CS B": "MEGHA RAJEEV PILLAI",
-      "title": "Psycho Shammi",
-      "winner": "MEGHA RAJEEV PILLAI",
-      "image": "./images/Single/CSB/MEGHA%20RAJEEV%20PILLAI.jpg"
+      title: "Psycho Shammi",
+      winner: "MEGHA RAJEEV PILLAI",
+      image: "./images/Single/CSB/MEGHA%20RAJEEV%20PILLAI.jpg",
     },
     {
       "CS A": "AKASH JAMES",
       "CS B": "KRISHNAJITH MOHAN",
-      "title": "Lolan",
-      "winner": "KRISHNAJITH MOHAN",
-      "image": "./images/Single/CSB/KRISHNAJITH%20MOHAN.jpg"
+      title: "Lolan",
+      winner: "KRISHNAJITH MOHAN",
+      image: "./images/Single/CSB/KRISHNAJITH%20MOHAN.jpg",
     },
     {
       "CS A": "ASWANTH P P",
       "CS B": "KAITHARAN ARPITH JOLLY",
-      "title": "Kalippan",
-      "winner": "ASWANTH P P",
-      "image": "./images/Single/CSA/ASWANTH%20P%20P.jpg"
+      title: "Kalippan",
+      winner: "ASWANTH P P",
+      image: "./images/Single/CSA/ASWANTH%20P%20P.jpg",
     },
     {
       "CS A": "ANN MARY SONA SUNIL",
       "CS B": "SERENE ANNA GIJI",
-      "title": "Kanthari",
-      "winner": "ANN MARY SONA SUNIL",
-      "image": "./images/Single/CSA/ANN%20MARY%20SONA%20SUNIL.jpg"
+      title: "Kanthari",
+      winner: "ANN MARY SONA SUNIL",
+      image: "./images/Single/CSA/ANN%20MARY%20SONA%20SUNIL.jpg",
     },
     {
       "CS A": "ALVIN ABRAHAM THOMAS",
       "CS B": "MARTIN JOHNY",
-      "title": "Maveli",
-      "winner": "MARTIN JOHNY",
-      "image": "./images/Single/CSB/MARTIN%20JOHNY.jpg"
+      title: "Maveli",
+      winner: "MARTIN JOHNY",
+      image: "./images/Single/CSB/MARTIN%20JOHNY.jpg",
     },
     {
       "CS A": "BENETTO GEORGE",
       "CS B": "KAITHARAN ARPITH JOLLY",
-      "title": "Muscle Aliyan",
-      "winner": "BENETTO GEORGE",
-      "image": "./images/Single/CSA/BENETTO%20GEORGE.jpg"
+      title: "Muscle Aliyan",
+      winner: "BENETTO GEORGE",
+      image: "./images/Single/CSA/BENETTO%20GEORGE.jpg",
     },
     {
       "CS A": "ASHNA K",
       "CS B": "PRIYA JOSE",
-      "title": "Minda Poocha",
-      "winner": "ASHNA K",
-      "image": "./images/Single/CSA/ASHNA%20K.jpg"
+      title: "Minda Poocha",
+      winner: "ASHNA K",
+      image: "./images/Single/CSA/ASHNA%20K.jpg",
     },
     {
       "CS A": "ALBIN THANKACHAN",
       "CS B": "JEWEL P JOSE",
-      "title": "Al Padippi CSA",
-      "winner": "ALBIN THANKACHAN",
-      "image": "./images/Single/CSA/ALBIN%20THANKACHAN.jpg"
+      title: "Al Padippi CSA",
+      winner: "ALBIN THANKACHAN",
+      image: "./images/Single/CSA/ALBIN%20THANKACHAN.jpg",
     },
     {
       "CS A": "JOHNY XAVIER FERNANDEZ",
       "CS B": "TIFFANY MARY THOMAS",
-      "title": "Al Padippi CSB",
-      "winner": "TIFFANY MARY THOMAS",
-      "image": "./images/Single/CSB/TIFFANY%20MARY%20THOMAS.jpg"
+      title: "Al Padippi CSB",
+      winner: "TIFFANY MARY THOMAS",
+      image: "./images/Single/CSB/TIFFANY%20MARY%20THOMAS.jpg",
     },
     {
       "CS A": "ALBIN THANKACHAN",
       "CS B": "JOSHUA JACOB CHACKO",
-      "title": "Mr. Teacher's Pet",
-      "winner": "JOSHUA JACOB CHACKO",
-      "image": "./images/Single/CSB/JOSHUA%20JACOB%20CHACKO.jpg"
+      title: "Mr. Teacher's Pet",
+      winner: "JOSHUA JACOB CHACKO",
+      image: "./images/Single/CSB/JOSHUA%20JACOB%20CHACKO.jpg",
     },
     {
       "CS A": "ANN MARY SONA SUNIL",
       "CS B": "NEETHU MARIA MATHEW",
-      "title": "Ms. Teacher's Pet",
-      "winner": "NEETHU MARIA MATHEW",
-      "image": "./images/Single/CSB/NEETHU%20MARIA%20MATHEW.jpg"
+      title: "Ms. Teacher's Pet",
+      winner: "NEETHU MARIA MATHEW",
+      image: "./images/Single/CSB/NEETHU%20MARIA%20MATHEW.jpg",
     },
     {
       "CS A": "HARI KRISHNAN A",
       "CS B": "KIRAN SAYI",
-      "title": "King Liar",
-      "winner": "KIRAN SAYI",
-      "image": "./images/Single/CSB/KIRAN%20SAYI.jpg"
+      title: "King Liar",
+      winner: "KIRAN SAYI",
+      image: "./images/Single/CSB/KIRAN%20SAYI.jpg",
     },
     {
       "CS A": "ANEENA KURIAN",
       "CS B": "SERENE ANNA GIJI",
-      "title": "Queen Liar",
-      "winner": "ANEENA KURIAN",
-      "image": "./images/Single/CSA/ANEENA%20KURIAN.jpg"
+      title: "Queen Liar",
+      winner: "ANEENA KURIAN",
+      image: "./images/Single/CSA/ANEENA%20KURIAN.jpg",
     },
     {
       "CS A": "JESWIN JOY",
       "CS B": "JOBLIN K JAMES",
-      "title": "Kothiyan",
-      "winner": "JOBLIN K JAMES",
-      "image": "./images/Single/CSB/JOBLIN%20K%20JAMES.jpg"
+      title: "Kothiyan",
+      winner: "JOBLIN K JAMES",
+      image: "./images/Single/CSB/JOBLIN%20K%20JAMES.jpg",
     },
     {
       "CS A": "ALWIN DANI SAM",
       "CS B": "JOBLIN K JAMES",
-      "title": "Mr. Loud Speaker",
-      "winner": "ALWIN DANI SAM",
-      "image": "./images/Single/CSA/ALWIN%20DANI%20SAM.jpg"
+      title: "Mr. Loud Speaker",
+      winner: "ALWIN DANI SAM",
+      image: "./images/Single/CSA/ALWIN%20DANI%20SAM.jpg",
     },
     {
       "CS A": "ANEENA KURIAN",
       "CS B": "ROSMIN AUGUSTINE",
-      "title": "Ms. Loud Speaker",
-      "winner": "ROSMIN AUGUSTINE",
-      "image": "./images/Single/CSB/ROSMIN%20AUGUSTINE.jpg"
+      title: "Ms. Loud Speaker",
+      winner: "ROSMIN AUGUSTINE",
+      image: "./images/Single/CSB/ROSMIN%20AUGUSTINE.jpg",
     },
     {
       "CS A": "JESWIN JOY",
       "CS B": "JOEL PHILIP MATHEW",
-      "title": "Mr. Poovan Kozhi",
-      "winner": "JESWIN JOY",
-      "image": "./images/Single/CSA/JESWIN%20JOY.jpg"
+      title: "Mr. Poovan Kozhi",
+      winner: "JESWIN JOY",
+      image: "./images/Single/CSA/JESWIN%20JOY.jpg",
     },
     {
       "CS A": "ANGEL ANDREWS K",
       "CS B": "SERENE ANNA GIJI",
-      "title": "Ms. Pedakozhi",
-      "winner": "SERENE ANNA GIJI",
-      "image": "./images/Single/CSB/SERENE%20ANNA%20GIJI.jpg"
+      title: "Ms. Pedakozhi",
+      winner: "SERENE ANNA GIJI",
+      image: "./images/Single/CSB/SERENE%20ANNA%20GIJI.jpg",
     },
     {
       "CS A": "AKHIL ANAND",
       "CS B": "RICHU MATHEWS GEROGE",
-      "title": "Last Bencher",
-      "winner": "RICHU MATHEWS GEROGE",
-      "image": "./images/Single/CSB/RICHU%20MATHEWS%20GEROGE.jpg"
+      title: "Last Bencher",
+      winner: "RICHU MATHEWS GEROGE",
+      image: "./images/Single/CSB/RICHU%20MATHEWS%20GEROGE.jpg",
     },
     {
       "CS A": "DENNIS BABU",
       "CS B": "JOEL PHILIP MATHEW",
-      "title": "Dance Master Vikram",
-      "winner": "JOEL PHILIP MATHEW",
-      "image": "./images/Single/CSB/JOEL%20PHILIP%20MATHEW.jpg"
+      title: "Dance Master Vikram",
+      winner: "JOEL PHILIP MATHEW",
+      image: "./images/Single/CSB/JOEL%20PHILIP%20MATHEW.jpg",
     },
   ];
 
@@ -2822,10 +2821,9 @@ $(document).ready(function () {
       `);
   });
 
-
   csb.forEach((details) => {
     $(".csb").append(`
-    <div class="col-md-6 col-lg-4">
+    <div class="col-sm-6 col-lg-4">
     <div class="container" data-aos="fade-up" data-aos-delay="${details.delay}">
       <div class="profile-card-2"><img
       width="100%"
@@ -2841,7 +2839,7 @@ $(document).ready(function () {
 
   award.forEach((details) => {
     $(".award").append(`
-    <div class="col-md-6 col-lg-4">
+    <div class="col-sm-6 col-lg-4">
     <div class="container" data-aos="fade-up" data-aos-delay="${details.delay}">
       <div class="profile-card-2"><img
       width="100%"
