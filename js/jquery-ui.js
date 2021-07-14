@@ -93,9 +93,6 @@ $.widget = function( name, base, prototype ) {
 
 	basePrototype = new base();
 
-	// We need to make the options hash a property directly on the new instance
-	// otherwise we'll modify the options hash on the prototype that we're
-	// inheriting from
 	basePrototype.options = $.widget.extend( {}, basePrototype.options );
 	$.each( prototype, function( prop, value ) {
 		if ( !$.isFunction( value ) ) {
