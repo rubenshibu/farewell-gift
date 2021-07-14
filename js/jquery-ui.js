@@ -983,9 +983,6 @@ var widgetsSlider = $.widget( "ui.slider", $.ui.mouse, {
 		start: null,
 		stop: null
 	},
-
-	// Number of pages in a slider
-	// (how many times can you page up/down to go through the whole range)
 	numPages: 5,
 
 	_create: function() {
