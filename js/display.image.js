@@ -2420,12 +2420,12 @@ $(document).ready(function () {
       link: "./images/Single/CSB/S%20SREYAS.jpg",
       delay: 300,
     },
-    {
-      name: "SACHIN JOSEPH",
-      instaId: "sachin_joseph_v27",
-      link: "./images/Single/CSB/SACHIN%20JOSEPH.jpg",
-      delay: 100,
-    },
+    // {
+    //   name: "SACHIN JOSEPH",
+    //   instaId: "sachin_joseph_v27",
+    //   link: "./images/Single/CSB/SACHIN%20JOSEPH.jpg",
+    //   delay: 100,
+    // },
     {
       name: "SAIRA SALIM",
       instaId: "thisissaira",
