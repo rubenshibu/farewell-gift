@@ -2847,9 +2847,8 @@ $(document).ready(function () {
           src= ${details.image}
           class="img img-responsive">
         
-        <div class="profile-icons fw-bold ">${details.winner}</div>
-        
       </div>
+      <div class="profile-icons fw-bold ">${details.winner}</div>
       <div class="profile-name text-warning">${details.title}</div>
       <br>
     </div>
