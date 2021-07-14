@@ -2841,13 +2841,17 @@ $(document).ready(function () {
     $(".award").append(`
     <div class="col-sm-6 col-lg-4">
     <div class="container" data-aos="fade-up" data-aos-delay="${details.delay}">
+    
       <div class="profile-card-2"><img
       width="100%"
           src= ${details.image}
           class="img img-responsive">
-        <div class="profile-name">${details.title}</div>
-        <div class="profile-icons fw-bold">${details.winner}</div>
+        
+        <div class="profile-icons fw-bold ">${details.winner}</div>
+        
       </div>
+      <div class="profile-name text-warning">${details.title}</div>
+      <br>
     </div>
   </div>
       `);
