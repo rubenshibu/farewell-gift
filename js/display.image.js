@@ -2830,7 +2830,7 @@ $(document).ready(function () {
           src= ${details.link}
           class="img img-responsive">
         <div class="profile-name">${details.name}</div>
-        <div class="profile-icons"><a href=href="https://instagram.com/${details.instaId}"><i class="text-white bi bi-instagram"></i></a></div>
+        <div class="profile-icons"><a href="https://instagram.com/${details.instaId}"><i class="text-white bi bi-instagram"></i></a></div>
       </div>
     </div>
   </div>
