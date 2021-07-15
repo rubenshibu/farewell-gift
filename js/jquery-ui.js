@@ -1,8 +1,3 @@
-/*! jQuery UI - v1.12.1 - 2018-01-21
-* http://jqueryui.com
-* Includes: widget.js, keycode.js, widgets/mouse.js, widgets/slider.js
-* Copyright jQuery Foundation and other contributors; Licensed MIT */
-
 (function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
 
@@ -18,22 +13,6 @@
 $.ui = $.ui || {};
 
 var version = $.ui.version = "1.12.1";
-
-
-/*!
- * jQuery UI Widget 1.12.1
- * http://jqueryui.com
- *
- * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
- * http://jquery.org/license
- */
-
-//>>label: Widget
-//>>group: Core
-//>>description: Provides a factory for creating stateful widgets with a common API.
-//>>docs: http://api.jqueryui.com/jQuery.widget/
-//>>demos: http://jqueryui.com/widget/
 
 
 
@@ -62,8 +41,7 @@ $.cleanData = ( function( orig ) {
 $.widget = function( name, base, prototype ) {
 	var existingConstructor, constructor, basePrototype;
 
-	// ProxiedPrototype allows the provided prototype to remain unmodified
-	// so that it can be used as a mixin for multiple widgets (#8876)
+
 	var proxiedPrototype = {};
 
 	var namespace = name.split( "." )[ 0 ];
@@ -88,7 +66,7 @@ $.widget = function( name, base, prototype ) {
 	existingConstructor = $[ namespace ][ name ];
 	constructor = $[ namespace ][ name ] = function( options, element ) {
 
-		// Allow instantiation without "new" keyword
+		
 		if ( !this._createWidget ) {
 			return new constructor( options, element );
 		}
@@ -115,9 +93,6 @@ $.widget = function( name, base, prototype ) {
 
 	basePrototype = new base();
 
-	// We need to make the options hash a property directly on the new instance
-	// otherwise we'll modify the options hash on the prototype that we're
-	// inheriting from
 	basePrototype.options = $.widget.extend( {}, basePrototype.options );
 	$.each( prototype, function( prop, value ) {
 		if ( !$.isFunction( value ) ) {
@@ -152,9 +127,7 @@ $.widget = function( name, base, prototype ) {
 	} );
 	constructor.prototype = $.widget.extend( basePrototype, {
 
-		// TODO: remove support for widgetEventPrefix
-		// always use the name + a colon as the prefix, e.g., draggable:start
-		// don't prefix for widgets that aren't DOM-based
+
 		widgetEventPrefix: existingConstructor ? ( basePrototype.widgetEventPrefix || name ) : name
 	}, proxiedPrototype, {
 		constructor: constructor,
@@ -163,22 +136,14 @@ $.widget = function( name, base, prototype ) {
 		widgetFullName: fullName
 	} );
 
-	// If this widget is being redefined then we need to find all widgets that
-	// are inheriting from it and redefine all of them so that they inherit from
-	// the new version of this widget. We're essentially trying to replace one
-	// level in the prototype chain.
 	if ( existingConstructor ) {
 		$.each( existingConstructor._childConstructors, function( i, child ) {
 			var childPrototype = child.prototype;
 
-			// Redefine the child widget using the same prototype that was
-			// originally used, but inherit from the new version of the base
 			$.widget( childPrototype.namespace + "." + childPrototype.widgetName, constructor,
 				child._proto );
 		} );
 
-		// Remove the list of existing child constructors from the old constructor
-		// so the old child constructors can be garbage collected
 		delete existingConstructor._childConstructors;
 	} else {
 		base._childConstructors.push( constructor );
@@ -227,9 +192,6 @@ $.widget.bridge = function( name, object ) {
 		var returnValue = this;
 
 		if ( isMethodCall ) {
-
-			// If this is an empty collection, we need to have the instance method
-			// return undefined instead of the jQuery instance
 			if ( !this.length && options === "instance" ) {
 				returnValue = undefined;
 			} else {
@@ -994,25 +956,6 @@ var widgetsMouse = $.widget( "ui.mouse", {
 } );
 
 
-/*!
- * jQuery UI Slider 1.12.1
- * http://jqueryui.com
- *
- * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
- * http://jquery.org/license
- */
-
-//>>label: Slider
-//>>group: Widgets
-//>>description: Displays a flexible slider with ranges and accessibility via keyboard.
-//>>docs: http://api.jqueryui.com/slider/
-//>>demos: http://jqueryui.com/slider/
-//>>css.structure: ../../themes/base/core.css
-//>>css.structure: ../../themes/base/slider.css
-//>>css.theme: ../../themes/base/theme.css
-
-
 
 var widgetsSlider = $.widget( "ui.slider", $.ui.mouse, {
 	version: "1.12.1",
@@ -1023,9 +966,6 @@ var widgetsSlider = $.widget( "ui.slider", $.ui.mouse, {
 		classes: {
 			"ui-slider": "ui-corner-all",
 			"ui-slider-handle": "ui-corner-all",
-
-			// Note: ui-widget-header isn't the most fittingly semantic framework class for this
-			// element, but worked best visually with a variety of themes
 			"ui-slider-range": "ui-corner-all ui-widget-header"
 		},
 		distance: 0,
@@ -1043,9 +983,6 @@ var widgetsSlider = $.widget( "ui.slider", $.ui.mouse, {
 		start: null,
 		stop: null
 	},
-
-	// Number of pages in a slider
-	// (how many times can you page up/down to go through the whole range)
 	numPages: 5,
 
 	_create: function() {
@@ -1518,9 +1455,6 @@ var widgetsSlider = $.widget( "ui.slider", $.ui.mouse, {
 		if ( Math.abs( valModStep ) * 2 >= step ) {
 			alignValue += ( valModStep > 0 ) ? step : ( -step );
 		}
-
-		// Since JavaScript has problems with large floats, round
-		// the final value to 5 digits after the decimal point (see #4124)
 		return parseFloat( alignValue.toFixed( 5 ) );
 	},
 
@@ -1531,8 +1465,6 @@ var widgetsSlider = $.widget( "ui.slider", $.ui.mouse, {
 			aboveMin = Math.round( ( max - min ) / step ) * step;
 		max = aboveMin + min;
 		if ( max > this.options.max ) {
-
-			//If max is not divisible by step, rounding off may increase its value
 			max -= step;
 		}
 		this.max = parseFloat( max.toFixed( this._precision() ) );
